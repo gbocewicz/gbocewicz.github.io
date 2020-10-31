@@ -1,15 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publikacje"
 permalink: /publications/
 author_profile: true
 ---
 
-[30]	Relich M., Bocewicz G., Rostek K.B., Banaszak Z., A Declarative Approach to New Product Development Project Prototyping. IEEE Intelligent Systems, 2020, doi: 10.1109/MIS.2020.3030481
-
-[2]	Szwarc, E.; Wikarek, J.; Gola, A.; Bocewicz, G.; Banaszak, Z. Interactive Planning of Competency-Driven University Teaching Staff Allocation. Applied Sciences 2020, 10, 4894.
-[3]	Thibbotuwawa, A.; Bocewicz, G.; Nielsen, P.; Banaszak, Z. Unmanned Aerial Vehicle Routing Problems: A Literature Review. Applied Sciences 2020, 10, 4504.
-[4]	Bocewicz, G., Banaszak, Z., Rudnik, K., Witczak, M., Smutnicki, C., Wikarek, J., Milk-run routing and scheduling subject to fuzzy pickup and delivery time constraints: An ordered fuzzy numbers approach, (2020) IEEE International Conference on Fuzzy Systems, 2020-July, art. no. 9177733, . DOI:10.1109/FUZZ48607.2020.9177733
+30.	Relich M., Bocewicz G., Rostek K.B., Banaszak Z., A Declarative Approach to New Product Development Project Prototyping. IEEE Intelligent Systems, 2020, [doi: 10.1109/MIS.2020.3030481](https://www.computer.org/csdl/magazine/ex/5555/01/09222470/1nTrR5ybDeo)
+29.	Szwarc E., Wikarek J., Gola A., Bocewicz G., Banaszak Z., Interactive Planning of Competency-Driven University Teaching Staff Allocation. Applied Sciences 2020,10(14), 4894, [doi:10.3390/app10144894](https://www.mdpi.com/2076-3417/10/14/4894)
+28.	Bocewicz G., Banaszak Z., Rudnik K., Witczak M., Smutnicki C., Wikarek J., Milk-run routing and scheduling subject to fuzzy pickup and delivery time constraints: An ordered fuzzy numbers approach. IEEE International Conference on Fuzzy Systems, 2020, art. no. 9177733, [doi:10.1109/FUZZ48607.2020.9177733](https://ieeexplore.ieee.org/document/9177733)
+27.	Thibbotuwawa A., Bocewicz G., Nielsen P., Banaszak Z., Unmanned Aerial Vehicle Routing Problems: A Literature Review. Applied Sciences 2020, 10, 4504, [doi: 10.3390/app10134504](https://www.mdpi.com/2076-3417/10/13/4504)
 [5]	Bocewicz G., Banaszak Z., Smutnicki C., Rudnik K., Witczak M., Wójcik R. (2020) Simulation Versus an Ordered–Fuzzy-Numbers-Driven Approach to the Multi-depot Vehicle Cyclic Routing and Scheduling Problem. In: Krzhizhanovskaya V. et al. (eds) Computational Science – ICCS 2020. ICCS 2020. Lecture Notes in Computer Science, vol 12138. Springer, Cham
 [6]	Bocewicz Grzegorz, Nielsen Izabela, Gola Arkadiusz & Banaszak Zbigniew (2020) Reference model of milk-run traffic systems prototyping, International Journal of Production Research, DOI: 10.1080/00207543.2020.1766717
 [7]	Sitek P, Wikarek J., Rutczyńska-Wdowiak K., Bocewicz G., Banaszak Z., Optimization of Capacitated Vehicle Routing Problem with Alternative delivery, Pick-up and Time windows: a modified hybrid approach, Neurocomputing, 2020, ISSN 0925-2312, https://doi.org/10.1016/j.neucom.2020.02.126
