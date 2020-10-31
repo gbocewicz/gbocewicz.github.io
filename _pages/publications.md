@@ -13,7 +13,7 @@ author_profile: true
 0.	Bocewicz G., Nielsen I., Gola A., Banaszak Z., Reference model of milk-run traffic systems prototyping. International Journal of Production Research, [doi:10.1080/00207543.2020.1766717](https://www.tandfonline.com/doi/abs/10.1080/00207543.2020.1766717)
 0.	Sitek P, Wikarek J., Rutczyńska-Wdowiak K., Bocewicz G., Banaszak Z., Optimization of Capacitated Vehicle Routing Problem with Alternative delivery, Pick-up and Time windows: a modified hybrid approach. Neurocomputing, 2020, [doi:10.1016/j.neucom.2020.02.126](https://www.sciencedirect.com/science/article/abs/pii/S0925231220307414)
 0.	Thibbotuwawa A., Bocewicz G., Radzki G., Nielsen P., Banaszak Z., UAV Mission Planning Resistant to Weather Uncertainty. Sensors (Basel). Sensors, 20(2), 2020, 515, [doi:10.3390/s20020515](https://www.mdpi.com/1424-8220/20/2/515) 
-0. Thibbotuwawa T., Bocewicz G., Banaszak Z., Nielsen P., A Solution Approach for UAV Fleet Mission Planning in Changing Weather Conditions. Applied Sciences, 9, 2019 3972, [doi:10.3390/app9193972](https://www.mdpi.com/2076-3417/9/19/3972)
+0. Thibbotuwawa T., Bocewicz G., Banaszak Z., Nielsen P., A Solution Approach for UAV Fleet Mission Planning in Changing Weather Conditions. Applied Sciences, 9, 2019, 3972, [doi:10.3390/app9193972](https://www.mdpi.com/2076-3417/9/19/3972)
 0. Szwarc E., Bocewicz G., Banaszak Z., Wikarek J., Competence allocation planning robust to unexpected staff absenteeism [Planowanie przydziału kompetencji odpornego na nieprzewidziane absencje pracowników]. Eksploatacja i Niezawodnosc, 21 (3), 2019, 440-450 [doi:10.17531/ein.2019.3.10](http://ein.org.pl/2019-03-10)
 0. Wikarek J., Sitek P., Bocewicz G., Resource constrained portfolio scheduling problem (RCPoSP): A hybrid approach. Journal of Intelligent & Fuzzy Systems, 37(6), 2019, 1-15, [doi:10.3233/JIFS-179364](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179364)
 0. Witczak M., Majdzik P., Stetter R., Bocewicz G., Interval max-plus fault-tolerant control under resource conflicts and redundancies: application to the seat assembly. International Journal of Control. 93(11), 2020, 2662-2674, [doi:10.1080/00207179.2019.1630749](https://doi.org/10.1080/00207179.2019.1630749)
@@ -34,7 +34,7 @@ author_profile: true
 ----------------------
 
 Monografie/Podręczniki
-----------------------
+======================
 0. Bocewicz G., Modele multimodalnych procesów cyklicznych. Wydawnictwo Uczelniane Politechniki Koszalińskiej, 2013, Koszalin, 289 s. 
 0. Banaszak Z., Bocewicz G., Decision Support Driven Models and Algorithms of Artificial Intelligence. Wydawnictwo Uczelniane Politechniki Warszawskiej, 2011, Warszawa, 237s.
 0. Bocewicz G., Bach-Dąbrowska I., Banaszak Z., Deklaratywne projektowanie systemów komputerowego wspomagania planowania przedsięwzięć. Akademicka Oficyna Wydawnicza Exit, Warszawa 2009, 302 s.
