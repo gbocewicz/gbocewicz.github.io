@@ -32,7 +32,6 @@ author_profile: true
 [zobacz więcej ...](https://www.scopus.com/authid/detail.uri?authorId=23570682300)
 
 ----------------------
-
 Monografie/Podręczniki
 ----------------------
 0. Bocewicz G., Modele multimodalnych procesów cyklicznych. Wydawnictwo Uczelniane Politechniki Koszalińskiej, 2013, Koszalin, 289 s. 
@@ -40,16 +39,14 @@ Monografie/Podręczniki
 0. Bocewicz G., Bach-Dąbrowska I., Banaszak Z., Deklaratywne projektowanie systemów komputerowego wspomagania planowania przedsięwzięć. Akademicka Oficyna Wydawnicza Exit, Warszawa 2009, 302 s.
 {: reversed="reversed"}
 
+--------
 Redakcje
 --------
-przykład
+0. [Modelling and Performance Analysis of Cyclic Systems](https://www.springer.com/gp/book/9783030276515), Eds. Bozejko W., Bocewicz G., Studies in Systems, Decision and Control, 2020
+0. [Ubiquitous manufacturing](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing/vol/45/suppl/C), Eds. Chen T., Warren Liao T., Lee D.-H., Bocewicz G., Robotics and Computer-Integrated Manufacturing, 2017
+0. [Distributed Computing and Artificial Intelligence](https://www.springer.com/gp/book/9783319401614), 13th International Conference, Eds. Omatu S., Semalat A., Bocewicz G., Sitek P., Nielsen I.E., García García, J.A., Bajo, J., Advances in Intelligent Systems and Computing, 2016 
+0. Distributed Computing and Artificial Intelligence, 12th International Conference, Eds. Omatu S., Malluhi Q.M., González S.R., Bocewicz G., Bucciarelli E., Giulioni G., Iqba F., Advances in Intelligent Systems and Computing, 2015 
+0. IFAC Workshop on Intelligent Manufacturing Systems - Special issue on “Research Advances for Next-Generation Production Systems”, Eds. Tsuzuki M., Bocewicz G., Banaszak Z., Production & Manufacturing Research, 2014 
+0. Informatyczne systemy zarządzania, wybrane zastosowania, Red. Bzdyra K., Bocewicz G., Wydawnictwo Uczelniane Politechniki Koszalińskiej, Koszalin, 2010, 143s.
+{: reversed="reversed"}
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
