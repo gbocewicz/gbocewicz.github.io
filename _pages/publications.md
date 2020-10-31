@@ -16,6 +16,15 @@ author_profile: true
 0. Thibbotuwawa T., Bocewicz G., Banaszak Z., Nielsen P., A Solution Approach for UAV Fleet Mission Planning in Changing Weather Conditions. Applied Sciences 2019, 9, 3972, [doi:10.3390/app9193972](https://www.mdpi.com/2076-3417/9/19/3972)
 0. Szwarc E., Bocewicz G., Banaszak Z., Wikarek J., Competence allocation planning robust to unexpected staff absenteeism [Planowanie przydziału kompetencji odpornego na nieprzewidziane absencje pracowników]. Eksploatacja i Niezawodnosc, 2019, 21 (3), 440-450 [doi:10.17531/ein.2019.3.10](http://ein.org.pl/2019-03-10)
 0. Wikarek J., Sitek P., Bocewicz G., Resource constrained portfolio scheduling problem (RCPoSP): A hybrid approach. Journal of Intelligent & Fuzzy Systems, 37(6), 7579-7593, 2019, 1-15, [doi:10.3233/JIFS-179364](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179364)
+0. Witczak M., Majdzik P., Stetter R., Bocewicz G., Interval max-plus fault-tolerant control under resource conflicts and redundancies: application to the seat assembly. International Journal of Control. 93(11), 2020, 2662-2674, [doi:10.1080/00207179.2019.1630749](https://doi.org/10.1080/00207179.2019.1630749)
+0. Janardhanan M.N., Li Z., Bocewicz G. Banaszak Z., Nielsen P., Metaheuristic algorithms for balancing robotic assembly lines with sequence-dependent robot setup times. Applied Mathematical Modelling, 65, 2019, 256-270, [doi:10.1016/j.apm.2018.08.016](https://www.sciencedirect.com/science/article/abs/pii/S0307904X18304050)
+0. Bocewicz G., Nielsen I., Banaszak Z., Majdzik P., A cyclic scheduling approach to maintaining production flow robustness. Advances in Mechanical Engineering, 2018, 10(1),  [doi:10.1177/1687814017746245](https://doi.org/10.1177/1687814017746245)
+0. Bocewicz G., Nilakantan J.M., Krenczyk D., Banaszak Z., Traffic flow routing and scheduling in a food supply network. Industrial Management & Data Systems, 2017,  117(9), 1972-1994, [doi:10.1108/IMDS-10-2016-0457](https://doi.org/10.1108/IMDS-10-2016-0457)
+0. Bocewicz G., Banaszak Z.,  Nielsen I., Delivery-flow routing and scheduling subject to constraints imposed by vehicle flows in fractal-like networks. Archives of Control Sciences, 27(LXIII), 2017, 135–150, [doi:10.1515/acsc-2017-0008](http://journals.pan.pl/dlibra/publication/120053/edition/104475/content/delivery-flow-routing-and-scheduling-subject-to-constraints-imposed-by-vehicle-flows-in-fractal-like-networks?language=pl)
+0. Bocewicz G., Banaszak Z.,  Nielsen I., Multimodal processes prototyping subject to grid-like network and fuzzy operation time constraints. Annals of Operations Research, 273, 2019, 561–585, [doi:10.1007/s10479-017-2468-5](https://doi.org/10.1007/s10479-017-2468-5)
+0. Chen T., Warren Liao T., Lee D.-H., Bocewicz G., Ubiquitous manufacturing (editorial), Robotics and Computer-Integrated Manufacturing, 2017, Vol. 45, 1-2, 0736-5845, [doi:10.1016/j.rcim.2016.09.009](https://doi.org/10.1016/j.rcim.2016.09.009)
+0. Nielsen I., Dang Q-V, Bocewicz G., Banaszak Z., A methodology for implementation of mobile robot in adaptive manufacturing environments. Journal of Intelligent Manufacturing, Springer US, 2017, Vol. 28, Issue 5, 1171–1188, 
+0. Bocewicz G., Nielsen I., Banaszak Z.,  Production flows scheduling subject to fuzzy processing time constraints. International Journal of Computer Integrated Manufacturing, 29(10),  2016, 1105-1127, [doi:10.1080/0951192X.2016.1145739](https://doi.org/10.1080/0951192X.2016.1145739)
 {: reversed="reversed"}
 
 -------------
@@ -23,15 +32,7 @@ author_profile: true
 
 
 
-[12] Witczak M., Majdzik P., Stetter R., Bocewicz G., Interval max-plus fault-tolerant control under resource conflicts and redundancies: application to the seat assembly. International Journal of Control.  Received 08 Sep 2018, Accepted 03 Jun 2019, Accepted author version posted online: 11 Jun 2019, Published online: 20 Jun 2019, https://doi.org/10.1080/00207179.2019.1630749
-[13] Janardhanan M.N., Li Z., Bocewicz G. Banaszak Z., Nielsen P. Metaheuristic algorithms for balancing robotic assembly lines with sequence-dependent robot setup times. Applied Mathematical Modelling, 2018, doi.org/10.1016/j.apm.2018.08.016
-[14] Bocewicz G., Nielsen I., Banaszak Z., Majdzik P.,  A cyclic scheduling approach to maintaining production flow robustness, Advances in Mechanical Engineering, 2018,Vol. 10, Issue 1, first published online: January 6, 2018, doi.org/10.1177/1687814017746245
-[15] Bocewicz G., Nilakantan J.M., Krenczyk D., Banaszak Z., Traffic flow routing and scheduling in a food supply network, Industrial Management & Data Systems, 2017, Vol. 117 Issue: 9, pp.1972-1994, https://doi.org/10.1108/IMDS-10-2016-0457
-[16] Bocewicz G., Banaszak Z.,  Nielsen I., Delivery-flow routing and scheduling subject to constraints imposed by vehicle flows in fractal-like networks, Archives of Control Sciences, Vol. 27(LXIII), 2017, No. 2, p. 135–150
-[17] Bocewicz G., Banaszak Z.,  Nielsen I., Multimodal processes prototyping subject to grid-like network and fuzzy operation time constraints, Annals of Operations Research, 2019. https://doi.org/10.1007/s10479-017-2468-5
-[18] Chen T., Warren Liao T., Lee D.-H., Bocewicz G., Ubiquitous manufacturing (editorial), Robotics and Computer-Integrated Manufacturing, 2017, Vol. 45, 1-2, 0736-5845. 
-[19] Nielsen I., Dang Q-V, Bocewicz G., Banaszak Z., A methodology for implementation of mobile robot in adaptive manufacturing environments. Journal of Intelligent Manufacturing, Springer US, 2017, Vol. 28, Issue 5, 1171–1188, 
-[20] Bocewicz G., Nielsen I., Banaszak Z.,  Production flows scheduling subject to fuzzy processing time constraints, International Journal of Computer Integrated Manufacturing, Volume 29, Issue 10,  2016, 1105-1127
+
 [21] Nielsen I., Wójcik R., Bocewicz G., Banaszak Z., Multimodal processes optimization subject to fuzzy operation time constraints: declarative modeling approach. Frontiers of Information Technology & Electronic Engineering, 2016, Vol. 17, Issue 4, pp. 338-347. 
 [22] Bocewicz G., Muszyński W., Banaszak Z., Models of multimodal networks and transport processes. Bulletin of the Polish Academy of Sciences, Technical Sciences, Vol. 63, No. 3, 2015, 635-650, 
 [23] Nielsen I.E., Do N.A.D., Jang J., Bocewicz G., Planning of vessel speed and fuel bunkering over a route with speed limits. Maritime Economics & Logistics, 2016,  Vol. 18, Issue 4,  414-435   
