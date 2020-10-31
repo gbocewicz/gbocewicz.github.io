@@ -37,6 +37,13 @@ author_profile: true
 [29] Bach I., Bocewicz G., Banaszak Z., Muszyński W., Knowledge based and CP-driven approach applied to multi product small-size production flow. Control and Cybernetics, Vol. 39, No. 1, 2010, 69–95 
 [30] Bocewicz G., Bach I., Wójcik R., Production flow prototyping subject to imprecise activity specification. Kybernetes, Vol. 38, Issue 7, 2009, 1298–1316 
 
+Monografie/Podręczniki
+----------------------
+przykład
+
+Redakcje
+--------
+przykład
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
