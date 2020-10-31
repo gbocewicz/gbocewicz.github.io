@@ -34,7 +34,7 @@ author_profile: true
 ----------------------
 
 Monografie/Podręczniki
-======================
+----------------------
 0. Bocewicz G., Modele multimodalnych procesów cyklicznych. Wydawnictwo Uczelniane Politechniki Koszalińskiej, 2013, Koszalin, 289 s. 
 0. Banaszak Z., Bocewicz G., Decision Support Driven Models and Algorithms of Artificial Intelligence. Wydawnictwo Uczelniane Politechniki Warszawskiej, 2011, Warszawa, 237s.
 0. Bocewicz G., Bach-Dąbrowska I., Banaszak Z., Deklaratywne projektowanie systemów komputerowego wspomagania planowania przedsięwzięć. Akademicka Oficyna Wydawnicza Exit, Warszawa 2009, 302 s.
