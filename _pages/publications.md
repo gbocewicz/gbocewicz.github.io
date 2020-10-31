@@ -11,16 +11,18 @@ author_profile: true
 0.	Thibbotuwawa A., Bocewicz G., Nielsen P., Banaszak Z., Unmanned Aerial Vehicle Routing Problems: A Literature Review. Applied Sciences 2020, 10, 4504, [doi: 10.3390/app10134504](https://www.mdpi.com/2076-3417/10/13/4504)
 0.	Bocewicz G., Banaszak Z., Smutnicki C., Rudnik K., Witczak M., Wójcik R., Simulation Versus an Ordered–Fuzzy-Numbers-Driven Approach to the Multi-depot Vehicle Cyclic Routing and Scheduling Problem.  Computational Science – ICCS 2020 Krzhizhanovskaya V. et al. (eds). Lecture Notes in Computer Science, 12138. Springer, [doi:10.1007/978-3-030-50417-5_19](https://link.springer.com/chapter/10.1007/978-3-030-50417-5_19)
 0.	Bocewicz G., Nielsen I., Gola A., Banaszak Z., Reference model of milk-run traffic systems prototyping. International Journal of Production Research, [doi:10.1080/00207543.2020.1766717](https://www.tandfonline.com/doi/abs/10.1080/00207543.2020.1766717)
-0.	Sitek P, Wikarek J., Rutczyńska-Wdowiak K., Bocewicz G., Banaszak Z., Optimization of Capacitated Vehicle Routing Problem with Alternative delivery, Pick-up and Time windows: a modified hybrid approach, Neurocomputing, 2020, ISSN 0925-2312, https://doi.org/10.1016/j.neucom.2020.02.126
+0.	Sitek P, Wikarek J., Rutczyńska-Wdowiak K., Bocewicz G., Banaszak Z., Optimization of Capacitated Vehicle Routing Problem with Alternative delivery, Pick-up and Time windows: a modified hybrid approach. Neurocomputing, 2020, ISSN 0925-2312, [doi:10.1016/j.neucom.2020.02.126](https://www.sciencedirect.com/science/article/abs/pii/S0925231220307414)
 0.	Thibbotuwawa A., Bocewicz G., Radzki G., Nielsen P., Banaszak Z., UAV Mission Planning Resistant to Weather Uncertainty. Sensors (Basel). Sensors 2020, 20(2), 515, [doi:10.3390/s20020515](https://www.mdpi.com/1424-8220/20/2/515) 
 0. Thibbotuwawa T., Bocewicz G., Banaszak Z., Nielsen P., A Solution Approach for UAV Fleet Mission Planning in Changing Weather Conditions. Applied Sciences 2019, 9, 3972, [doi:10.3390/app9193972](https://www.mdpi.com/2076-3417/9/19/3972)
+0. Szwarc E., Bocewicz G., Banaszak Z., Wikarek J., Competence allocation planning robust to unexpected staff absenteeism [Planowanie przydziału kompetencji odpornego na nieprzewidziane absencje pracowników]. Eksploatacja i Niezawodnosc, 2019, 21 (3), 440-450 [doi:10.17531/ein.2019.3.10](http://ein.org.pl/2019-03-10)
+0. Wikarek J., Sitek P., Bocewicz G., Resource constrained portfolio scheduling problem (RCPoSP): A hybrid approach. Journal of Intelligent & Fuzzy Systems, 37(6), 7579-7593, 2019, 1-15, [doi:10.3233/JIFS-179364](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179364)
 {: reversed="reversed"}
 
 -------------
 
 
-[10] Szwarc, E., Bocewicz, G., Banaszak, Z., Wikarek, J. Competence allocation planning robust to unexpected staff absenteeism [Planowanie przydziału kompetencji odpornego na nieprzewidziane absencje pracowników](2019) Eksploatacja i Niezawodnosc, 21 (3), pp. 440-450. DOI: 10.17531/ein.2019.3.10
-[11] Wikarek J., Sitek, P., Bocewicz, G. Resource constrained portfolio scheduling problem (RCPoSP): A hybrid approach. Journal of Intelligent & Fuzzy Systems, vol. Pre-press, no. Pre-press, pp. 1-15, 2019, Doi: 10.3233/JIFS-179364
+
+
 [12] Witczak M., Majdzik P., Stetter R., Bocewicz G., Interval max-plus fault-tolerant control under resource conflicts and redundancies: application to the seat assembly. International Journal of Control.  Received 08 Sep 2018, Accepted 03 Jun 2019, Accepted author version posted online: 11 Jun 2019, Published online: 20 Jun 2019, https://doi.org/10.1080/00207179.2019.1630749
 [13] Janardhanan M.N., Li Z., Bocewicz G. Banaszak Z., Nielsen P. Metaheuristic algorithms for balancing robotic assembly lines with sequence-dependent robot setup times. Applied Mathematical Modelling, 2018, doi.org/10.1016/j.apm.2018.08.016
 [14] Bocewicz G., Nielsen I., Banaszak Z., Majdzik P.,  A cyclic scheduling approach to maintaining production flow robustness, Advances in Mechanical Engineering, 2018,Vol. 10, Issue 1, first published online: January 6, 2018, doi.org/10.1177/1687814017746245
