@@ -28,11 +28,11 @@ author_profile: true
 0. Nielsen I., Wójcik R., Bocewicz G., Banaszak Z., Multimodal processes optimization subject to fuzzy operation time constraints: declarative modeling approach. Frontiers of Information Technology & Electronic Engineering, 2016, 17(4), 338-347. 
 0. Bocewicz G., Muszyński W., Banaszak Z., Models of multimodal networks and transport processes. Bulletin of the Polish Academy of Sciences, Technical Sciences, 63(3), 2015, 635-650, 
 0. Nielsen I.E., Do N.A.D., Jang J., Bocewicz G., Planning of vessel speed and fuel bunkering over a route with speed limits. Maritime Economics & Logistics, 2016,  Vol. 18, Issue 4,  414-435   
-{: reversed="reversed"}
 
 -------------
-0. Bocewicz G. Nielsen I., Banaszak Z., Iterative multimodal processes scheduling, In: Annual Reviews in Control, 2014, Vol. 38, Issue 1, 2014, 113-122,
+0. Bocewicz G. Nielsen I., Banaszak Z., Iterative multimodal processes scheduling. Annual Reviews in Control, 2014, 38(1), 2014, 113-122,
 0.  Bocewicz G., Robustness of Multimodal Transportation Networks. Eksploatacja i Niezawodność–Maintenance and Reliability, Vol. 16, Issue 2, 2014, 259–269 
+{: reversed="reversed"}
 [26] Bocewicz G., Nielsen I., Banaszak Z., Automated Guided Vehicles Fleet Match-up Scheduling with Production Flow Constraints. In: Engineering Applications of Artificial Intelligence, Vol. 30, 2014, 49–62 
 [27] Bocewicz G. Wójcik R., Banaszak Z., Pawlewski P., Multimodal Processes Rescheduling: Cyclic Steady States Space Approach. In: Mathematical Problems in Engineering, Vol. 2013, Article ID 407096, 24 pages, 2013. doi:10.1155/2013/407096 
 [28] Bocewicz G., Banaszak Z., Declarative approach to cyclic steady states space refinement: periodic processes scheduling. In: International Journal of Advanced Manufacturing Technology, SI: Advanced dispatching rules for large-scale manufacturing systems, Chen T., Rajendran Ch., Wu C-W. (Eds.), 2013, Vol. 67, Issue 1-4, 137–155 
