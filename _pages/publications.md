@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-[1]	M. Relich, G. Bocewicz, K. B. Rostek and Z. Banaszak, "A Declarative Approach to New Product Development Project Prototyping," in IEEE Intelligent Systems, doi: 10.1109/MIS.2020.3030481. 
+[30]	Relich M., Bocewicz G., Rostek K.B., Banaszak Z., A Declarative Approach to New Product Development Project Prototyping. IEEE Intelligent Systems, 2020, doi: 10.1109/MIS.2020.3030481
+
 [2]	Szwarc, E.; Wikarek, J.; Gola, A.; Bocewicz, G.; Banaszak, Z. Interactive Planning of Competency-Driven University Teaching Staff Allocation. Applied Sciences 2020, 10, 4894.
 [3]	Thibbotuwawa, A.; Bocewicz, G.; Nielsen, P.; Banaszak, Z. Unmanned Aerial Vehicle Routing Problems: A Literature Review. Applied Sciences 2020, 10, 4504.
 [4]	Bocewicz, G., Banaszak, Z., Rudnik, K., Witczak, M., Smutnicki, C., Wikarek, J., Milk-run routing and scheduling subject to fuzzy pickup and delivery time constraints: An ordered fuzzy numbers approach, (2020) IEEE International Conference on Fuzzy Systems, 2020-July, art. no. 9177733, . DOI:10.1109/FUZZ48607.2020.9177733
