@@ -17,7 +17,7 @@ Zatrudnienie
 * Asystent Stażysta w Katedrze Telekomunikacji na Wydziale Elektroniki i Informatyki Politechniki Koszalińskiej (2004 - 2006)
 
 
-Education
+Edukacja
 ======
 __2014 uzyskanie stopnia doktora habilitowanego nauk technicznych__
 -	Wydział Informatyki i Zarządzania Politechniki Wrocławskiej
