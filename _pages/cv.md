@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +10,7 @@ redirect_from:
 
 Zatrudnienie
 ============
-* Dziekan Wydziału Elektroniki i Informatyki Politechniki Koszalińskiej (2016 - obecnie	)
+* Dziekan Wydziału Elektroniki i Informatyki Politechniki Koszalińskiej (2016 - obecnie)
 * Profesor uczelni, Katedra Podstaw Informatyki i Zarządzania, Wydziale Elektroniki i Informatyki Politechniki Koszalińskiej (2015 - obecnie)
 * Adiunkt, Katedra Podstaw Informatyki i Zarządzania na Wydziale Elektroniki i Informatyki Politechniki Koszalińskiej	(2007 - 2015)
 * Asystent,Katedrze Podstaw Informatyki i Zarządzania na Wydziale Elektroniki i Informatyki Politechniki Koszalińskiej (2006 - 2007)	
@@ -34,28 +33,6 @@ Education
 -	Kierunek: Telekomunikacja, profil: Komunikacja cyfrowa
 -	Temat pracy magisterskiej: Zastosowanie metod programowania z ograniczeniami do budowy systemu wspomagania decyzji w małych i średnich przedsiębiorstwach
 -	Temat pracy inżynierskiej: Stanowisko do badania dyspersji w światłowodach włóknistych
-
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
