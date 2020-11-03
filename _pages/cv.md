@@ -19,39 +19,18 @@ Zatrudnienie
 
 Education
 ======
-2014 uzyskanie stopnia doktora habilitowanego nauk technicznych
+__2014 uzyskanie stopnia doktora habilitowanego nauk technicznych__
 -	Wydział Informatyki i Zarządzania Politechniki Wrocławskiej
 -	Dyscyplina: informatyka
 -	Temat: Modele Systemów Multimodalnych Procesów Cyklicznych
 
-2007 uzyskanie stopnia doktora nauk technicznych
+__2007 uzyskanie stopnia doktora nauk technicznych__
 -	Wydział Informatyki i Zarządzania Politechniki Wrocławskiej
 -	Dyscyplina: informatyka, specjalność: systemy wspomagania decyzji
 -	Temat rozprawy doktorskiej: Zastosowanie metod programowania z ograniczeniami w zadaniowo zorientowanych systemach interakcyjnego wspomagania decyzji
 
-2000 - 2006     Politechnika Koszalińska
+__2000 - 2006 Politechnika Koszalińska__
 -	Kierunek: Telekomunikacja, profil: Komunikacja cyfrowa
 -	Temat pracy magisterskiej: Zastosowanie metod programowania z ograniczeniami do budowy systemu wspomagania decyzji w małych i średnich przedsiębiorstwach
 -	Temat pracy inżynierskiej: Stanowisko do badania dyspersji w światłowodach włóknistych
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
