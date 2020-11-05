@@ -19,15 +19,12 @@ Zatrudnienie
 |2006 - 2007   |Asystent, Katedra Podstaw Informatyki i Zarządzania, WEiI PK|
 |2004 - 2006   |Asystent stażysta, Katedra Podstaw Informatyki i Zarządzania, WEiI PK| 
 
-* Dziekan Wydziału Elektroniki i Informatyki Politechniki Koszalińskiej (2016 - obecnie)
-* Profesor uczelni, Katedra Podstaw Informatyki i Zarządzania, Wydziale Elektroniki i Informatyki Politechniki Koszalińskiej (2015 - obecnie)
-* Adiunkt, Katedra Podstaw Informatyki i Zarządzania na Wydziale Elektroniki i Informatyki Politechniki Koszalińskiej	(2007 - 2015)
-* Asystent,Katedrze Podstaw Informatyki i Zarządzania na Wydziale Elektroniki i Informatyki Politechniki Koszalińskiej (2006 - 2007)	
-* Asystent Stażysta w Katedrze Telekomunikacji na Wydziale Elektroniki i Informatyki Politechniki Koszalińskiej (2004 - 2006)
-
-
 Edukacja
 ======
+|2014 | Dziekan Wydziału Elektroniki i Informatyki (WEiI) Politechniki Koszalińskiej (PK)|
+|---------------------------|------------------------------------------------------------|
+|1    | Wydział Informatyki i Zarządzania Politechniki Wrocławskiej, dyscyplina: informatyka,	Temat: Modele Systemów Multimodalnych Procesów Cyklicznych|
+
 __2014 uzyskanie stopnia doktora habilitowanego nauk technicznych__
 -	Wydział Informatyki i Zarządzania Politechniki Wrocławskiej
 -	Dyscyplina: informatyka
