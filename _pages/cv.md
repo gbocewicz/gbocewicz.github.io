@@ -9,6 +9,11 @@ redirect_from:
 
 Zatrudnienie
 ============
+
+|2016 - obecnie| Dziekan Wydziału Elektroniki i Informatyki Politechniki Koszalińskiej|
+|--------------|----------------------------------------------------------------------|
+|2015 - obecnie|Profesor uczelni, Katedra Podstaw Informatyki i Zarządzania, Wydzial Elektroniki i Informatyki Politechniki Koszalińskiej|
+
 * Dziekan Wydziału Elektroniki i Informatyki Politechniki Koszalińskiej (2016 - obecnie)
 * Profesor uczelni, Katedra Podstaw Informatyki i Zarządzania, Wydziale Elektroniki i Informatyki Politechniki Koszalińskiej (2015 - obecnie)
 * Adiunkt, Katedra Podstaw Informatyki i Zarządzania na Wydziale Elektroniki i Informatyki Politechniki Koszalińskiej	(2007 - 2015)
