@@ -24,7 +24,7 @@ Edukacja
 
 |2014i | uzyskanie stopnia doktora habilitowanego nauk technicznych|
 |---------------------------|------------------------------------------------------------|
-|1    | Wydział Informatyki i Zarządzania Politechniki Wrocławskiej, dyscyplina: informatyka,	temat: Modele Systemów Multimodalnych Procesów Cyklicznych|
+|     | Wydział Informatyki i Zarządzania Politechniki Wrocławskiej, dyscyplina: informatyka,	temat: Modele Systemów Multimodalnych Procesów Cyklicznych|
 
 __2014 uzyskanie stopnia doktora habilitowanego nauk technicznych__
 -	Wydział Informatyki i Zarządzania Politechniki Wrocławskiej
