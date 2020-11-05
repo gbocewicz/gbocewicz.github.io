@@ -22,35 +22,22 @@ Zatrudnienie
 Edukacja
 ======
 
-|__2014__ | __uzyskanie stopnia doktora habilitowanego nauk technicznych__|
+|2014 | __uzyskanie stopnia doktora habilitowanego nauk technicznych__|
 |---------------------------|------------------------------------------------------------|
 |     | Wydział Informatyki i Zarządzania Politechniki Wrocławskiej, dyscyplina: informatyka,	temat: Modele Systemów Multimodalnych Procesów Cyklicznych|
 
-|__2007__ | __uzyskanie stopnia doktora nauk technicznych__|
+|2007 | __uzyskanie stopnia doktora nauk technicznych__|
 |---------------------------|------------------------------------------------------------|
 |     | Wydział Informatyki i Zarządzania Politechniki Wrocławskiej, dyscyplina: informatyka, specjalność: systemy wspomagania decyzji	temat: Zastosowanie metod programowania z ograniczeniami w zadaniowo zorientowanych systemach interakcyjnego wspomagania decyzji|
 
-|__2006__ | __uzyskanie tytułu magistra__|
+|2006 | __uzyskanie tytułu magistra__|
 |---------------------------|------------------------------------------------------------|
 |     | Wydział Elektroniki i Inforamtyki Politechniki Koszalińskiej, Kierunek: Elektronika i Telekomunikacja, specjalność: Komunikacja Cyfrowa: Zastosowanie metod programowania z ograniczeniami do budowy systemu wspomagania decyzji w małych i średnich przedsiębiorstwach|
 
 
-|__2004__ | __uzyskanie stopnia inżyniera__|
+|2004 | __uzyskanie stopnia inżyniera__|
 |---------------------------|------------------------------------------------------------|
 |     | Wydział Elektroniki i Inforamtyki Politechniki Koszalińskiej, Kierunek: Elektronika i Telekomunikacja,  Stanowisko do badania dyspersji w światłowodach włóknistych|
 
-__2014 uzyskanie stopnia doktora habilitowanego nauk technicznych__
--	Wydział Informatyki i Zarządzania Politechniki Wrocławskiej
--	Dyscyplina: informatyka
--	Temat: Modele Systemów Multimodalnych Procesów Cyklicznych
 
-__2007 uzyskanie stopnia doktora nauk technicznych__
--	Wydział Informatyki i Zarządzania Politechniki Wrocławskiej
--	Dyscyplina: informatyka, specjalność: systemy wspomagania decyzji
--	Temat rozprawy doktorskiej: Zastosowanie metod programowania z ograniczeniami w zadaniowo zorientowanych systemach interakcyjnego wspomagania decyzji
-
-__2000 - 2006 Politechnika Koszalińska__
--	Kierunek: Telekomunikacja, profil: Komunikacja cyfrowa
--	Temat pracy magisterskiej: Zastosowanie metod programowania z ograniczeniami do budowy systemu wspomagania decyzji w małych i średnich przedsiębiorstwach
--	Temat pracy inżynierskiej: Stanowisko do badania dyspersji w światłowodach włóknistych
 
