@@ -14,7 +14,7 @@ Zatrudnienie
 |---------------------------|------------------------------------------------------------|
 |2015 - obecnie|Profesor uczelni, Katedra Podstaw Informatyki i Zarządzania, WEiI PK|
 |2015(X-XII)   |Profesor wizytujący, Wyższa Szkoła Bankowa w Gdańsku| 
-|2012 - 2013   |Wykładowca, Uniwersyt Dziecięcy w Prywatnym Centrum Edukacyjnym, w Białogardzie|
+|2012 - 2013   |Wykładowca, Uniwersyt Dziecięcy, Prywatne Centrum Edukacyjne, Białogard|
 |2007 - 2015   |Adiunkt, Katedra Podstaw Informatyki i Zarządzania, WEiI PK||
 |2006 - 2007   |Asystent, Katedra Podstaw Informatyki i Zarządzania, WEiI PK|
 |2004 - 2006   |Asystent stażysta, Katedra Podstaw Informatyki i Zarządzania, WEiI PK| 
