@@ -6,8 +6,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Zatrudnienie
+Praca Zawodowa 
 ============
 
 |2016 - obecnie| Dziekan Wydziału Elektroniki i Informatyki (WEiI) Politechniki Koszalińskiej (PK)|
@@ -17,9 +16,9 @@ Zatrudnienie
 |2012 - 2013   |Wykładowca, Uniwersyt Dziecięcy, Prywatne Centrum Edukacyjne, Białogard|
 |2007 - 2015   |Adiunkt, Katedra Podstaw Informatyki i Zarządzania, WEiI PK||
 |2006 - 2007   |Asystent, Katedra Podstaw Informatyki i Zarządzania, WEiI PK|
-|2004 - 2006   |Asystent stażysta, Katedra Podstaw Informatyki i Zarządzania, WEiI PK| 
+|2004 - 2006   |Asystent stażysta, Katedra Telekomunikacji, WEiI PK| 
 
-Edukacja
+Wykształcenie
 ======
 
 |2014 | __uzyskanie stopnia doktora habilitowanego nauk technicznych__|
