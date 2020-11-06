@@ -44,12 +44,12 @@ Praca Zawodowa
 Pełnione funkcje
 ================
 
-|2018 - obecnie|ekspert Narodowego Centrum Badań i Rozwoju NCBR|
-|---------------------------|------------------------------------------------------------|
 |2019 - obecnie|przewodniczący Rady Naukowej dyscypliny Automatyka, Elektronika i Elektrotechnika PK|
+|---------------------------|------------------------------------------------------------|
 |2019 - obecnie|członek komitetu [TC 5.1. Manufacturing Plant Control, IFAC](https://tc.ifac-control.org/5/1)| 
+|2018 - obecnie|ekspert [Narodowego Centrum Badań i Rozwoju NCBR](https://www.ncbr.gov.pl/)|
 |2017 - obecnie|członek komitetu [TC 5.2. Management and Control in Manufacturing and Logistics, IFAC](https://tc.ifac-control.org/5/2)| 
-|2016 - obecnie|przewodniczący Rady Wydziału Elektroniki i Informatyki PK| 
-|2016 - obecnie|członek Senatu Politechniki Koszalińskiej|
+|2016 - obecnie|przewodniczący [Rady Wydziału Elektroniki i Informatyki PK](https://weii.tu.koszalin.pl/)| 
+|2016 - obecnie|członek [Senatu Politechniki Koszalińskiej](https://tu.koszalin.pl/)|
 
 
