@@ -26,7 +26,7 @@ Wykształcenie
 |     | Wydział Elektroniki i Inforamtyki Politechniki Koszalińskiej, Kierunek: Elektronika i Telekomunikacja,  Stanowisko do badania dyspersji w światłowodach włóknistych|
 
 |2000 | __uzyskanie tytułu zawodowego technika__|
-|---------------------------|------------------------------------------------------------|
+|:---------------------------|:------------------------------------------------------------|
 |     | Technikum Elektryczne w Białogardzie|
 
 Praca Zawodowa 
