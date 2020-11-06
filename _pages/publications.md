@@ -33,7 +33,7 @@ author_profile: true
 ----------------------
 
 Monografie/Podręczniki
-----------------------
+======================
 0. Bocewicz G., Modele multimodalnych procesów cyklicznych. Wydawnictwo Uczelniane Politechniki Koszalińskiej, 2013, Koszalin, 289s. 
 0. Banaszak Z., Bocewicz G., Decision Support Driven Models and Algorithms of Artificial Intelligence. Wydawnictwo Uczelniane Politechniki Warszawskiej, 2011, Warszawa, 237s.
 0. Bocewicz G., Bach-Dąbrowska I., Banaszak Z., Deklaratywne projektowanie systemów komputerowego wspomagania planowania przedsięwzięć. Akademicka Oficyna Wydawnicza Exit, Warszawa 2009, 302s.
@@ -42,7 +42,7 @@ Monografie/Podręczniki
 --------
 
 Redakcje
---------
+========
 0. [Modelling and Performance Analysis of Cyclic Systems](https://www.springer.com/gp/book/9783030276515), Eds. Bozejko W., Bocewicz G., Studies in Systems, Decision and Control, Springer, 2020, 190s.
 0. [Ubiquitous manufacturing](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing/vol/45/suppl/C), Eds. Chen T., Warren Liao T., Lee D.-H., Bocewicz G., Robotics and Computer-Integrated Manufacturing, 2017, 180s.
 0. [Distributed Computing and Artificial Intelligence](https://www.springer.com/gp/book/9783319401614), 13th International Conference, Eds. Omatu S., Semalat A., Bocewicz G., Sitek P., Nielsen I.E., García García, J.A., Bajo, J., Advances in Intelligent Systems and Computing, Springer, 2016, 567s. 
