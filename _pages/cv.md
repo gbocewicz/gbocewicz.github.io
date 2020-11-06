@@ -27,7 +27,7 @@ Wykształcenie
 
 |2000 | __uzyskanie tytułu zawodowego technika__|
 |:----|:---------------------------------------------------------------------------------|
-|     | Technikum Elektryczne w Białogardzie|
+|     | Technikum Elektryczne, Zespół Szkół Ponadgimnazjalnych w Białogardzie|
 
 Praca Zawodowa 
 ============
