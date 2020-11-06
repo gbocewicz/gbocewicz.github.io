@@ -1,8 +1,10 @@
 ---
-title: "Publikacje"
+title: " "
 permalink: /publications/
 author_profile: true
 ---
+Najważniejsze publikacje
+========================
 
 0.	Relich M., Bocewicz G., Rostek K.B., Banaszak Z., A Declarative Approach to New Product Development Project Prototyping. _IEEE Intelligent Systems_, 2020, [doi: 10.1109/MIS.2020.3030481](https://www.computer.org/csdl/magazine/ex/5555/01/09222470/1nTrR5ybDeo)
 0.	Szwarc E., Wikarek J., Gola A., Bocewicz G., Banaszak Z., Interactive Planning of Competency-Driven University Teaching Staff Allocation. _Applied Sciences_, 10(14), 2020, 4894, [doi:10.3390/app10144894](https://www.mdpi.com/2076-3417/10/14/4894)
