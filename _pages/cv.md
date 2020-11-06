@@ -26,7 +26,7 @@ Wykształcenie
 |     | Wydział Elektroniki i Inforamtyki Politechniki Koszalińskiej, Kierunek: Elektronika i Telekomunikacja,  Stanowisko do badania dyspersji w światłowodach włóknistych|
 
 |2000 | __uzyskanie tytułu zawodowego technika__|
-|:----------------|:------------------------------------------------------------|
+|:----|:---------------------------------------------------------------------------------|
 |     | Technikum Elektryczne w Białogardzie|
 
 Praca Zawodowa 
@@ -44,10 +44,12 @@ Praca Zawodowa
 Pełnione funkcje
 ================
 
-|2018 - obecnie| Ekspert Narodowego Centrum Badań i Rozwoju NCBR|
+|2018 - obecnie|ekspert Narodowego Centrum Badań i Rozwoju NCBR|
 |---------------------------|------------------------------------------------------------|
-|2019 - obecnie|Przewodniczący Rady Naukowej dyscypliny Automatyka, Elektronika i Elektrotechnika PK|
-|2016 - obecnie|Przewodniczący Rady Wydziału Elektroniki i Informatyki PK| 
-|2016 - obecnie|Członek Senatu Politechniki Koszalińskiej|
+|2019 - obecnie|przewodniczący Rady Naukowej dyscypliny Automatyka, Elektronika i Elektrotechnika PK|
+|2019 - obecnie|członek komitetu [TC 5.1. Manufacturing Plant Control, IFAC](https://tc.ifac-control.org/5/1)| 
+|2017 - obecnie|członek komitetu [TC 5.2. Management and Control in Manufacturing and Logistics, IFAC](https://tc.ifac-control.org/5/2)| 
+|2016 - obecnie|przewodniczący Rady Wydziału Elektroniki i Informatyki PK| 
+|2016 - obecnie|członek Senatu Politechniki Koszalińskiej|
 
 
