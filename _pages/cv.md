@@ -50,7 +50,7 @@ Pełnione funkcje
 |2018 - obecnie|ekspert Narodowego Centrum Badań i Rozwoju [NCBR](https://www.ncbr.gov.pl/)| 
 |2015 - obecnie|członek komitetu TC 5.1. Manufacturing Plant Control, [IFAC](https://tc.ifac-control.org/5/1)| 
 |2016 - obecnie|przewodniczący Rady Wydziału Elektroniki i Informatyki Politechniki Koszalińskiej [WEiI](https://weii.tu.koszalin.pl/)| 
-|2016 - obecnie|członek [Senatu Politechniki Koszalińskiej](https://tu.koszalin.pl/)|
+|2016 - obecnie|członek Senatu Politechniki Koszalińskiej [PK](https://tu.koszalin.pl/)|
 |2013 - obecnie|członek rady naukowej czasopisma Production & Manufacturing Research, Taylor & Francis [PMR](https://www.tandfonline.com/toc/tpmr/current)|
 |2012 - obecnie|członek rady naukowej czasopisma Applied Computer Science [ACS](http://www.acs.pollub.pl/)|
 
