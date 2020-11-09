@@ -10,13 +10,13 @@ var addressPoints = [
     9.9187
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Sankt Petersburg, MIM 2013",
+    59.9386300,
+    30.3141300
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Zakopane, KKAPD 2012",
+    49.2989900,
+    19.9488500
   ]
 ];
