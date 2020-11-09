@@ -3,43 +3,74 @@ title: "Uczestynictwo w konfernacjach"
 permalink: /talks/
 author_profile: true
 ---
-<ol reversed="reversed">
-<li>	World Conference on Mass Customization, Personalization, and Co-Creation (04-07.02.2014 Aalborg, Dania)</li>
-<li>	18th IEEE International Conference on Emerging Technologies and Factory Automation (10-13.09.2013 Cagliari, Włochy)</li>
-<li>	IFAC Conference on Manufacturing Modelling, Management, and Control (19-21.06.2013 Sankt Petersburg, Rosja)</li>
-<li>	XVIII Krajowa Konferencja Automatyzacji Procesów Dyskretnych (19-22.09.2012 Zakopane)</li>
-<li>	17th IEEE International Conference on Emerging Technologies and Factory Automation (17-21.09.2012 Kraków)</li>
-<li>	33rd International Conference Information Systems Architecture and Technology (16-18.09.2012 Szklarska Poręba)</li>
-<li>	Workshop on Multimodal Networks Modeling and Design (05.06.2012 Warszawa)</li>
-<li>	14th IFAC Symposium on Information Control Problems in Manufacturing (23-25.05.2012 Bukareszt, Rumunia)</li>
-<li>	10th International Conference on Practical Applications of Agents and Multi-Agent Systems (28-30.03.2012 Salamanca, Hiszpania)</li>
-<li>	XVIII Konferencja Systemy Czasu Rzeczywistego (12-15.09.2011 Czarna k. Ustrzyk Dolnych)</li>
-<li>	XIII Krajowa Konferencja Inżynierii Oprogramowania (12-15.09.2011 Czarna k. Ustrzyk Dolnych)</li>
-<li>	5th International ICSC Symposium on Information Technologies in Environmental Engineering (06-08.07.2011 Poznań)</li>
-<li>	International Symposium on Distributed Computing and Artificial Intelligence (06-08.04.2011 Salamanca, Hiszpania)</li>
-<li>	XII Krajowa Konferencja Inżynierii Oprogramowania (27-29.09.2010 Gdańsk)</li>
-<li>	XI Krajowa Konferencja Robotyki (09-12.09.2010 Karpacz)</li>
-<li>	3rd International Conference on Knowledge Science, Engineering and Management (25-27.11.2009 Wiedeń, Austria)</li>
-<li>	XVII Krajowa Konferencja, Polioptymalizacja i Komputerowe Wspomaganie Projektowania (15-18.06.2009 Sarbinowo)</li>
-<li>	II konferencja, IT and Knowledge Management 2009 (27-28.04.2009 Jastrzębia Góra)</li>
-<li>	Automation 2009, XIII Konferencja Naukowo-Techniczna, Automatyzacja-Nowości i Perspektywy (01-03.04.2009 Warszawa)</li>
-<li>	9th IFAC Workshop on Intelligent Manufacturing Systems (09-10.10.2008 Szczecin)</li>
-<li>	The Twenty First International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems (18-20.06.2008 Wrocław)</li>
-<li>	X Krajowa Konferencja Robotyki (03-06.09.2008 Piechowice)</li>
-<li>	Bazy Danych: Aplikacje i Systemy2008 (27-30.05.2008 Ustroń)</li>
-<li>	Conference on Human System Interaction (25-27.05.2008 Kraków)</li>
-<li>	I Konferencja, IT and Knowledge Management 2008 (17-18.04.2008 Jastrzębia Góra)</li>
-<li>	Automation 2008, XII Konferencja Naukowo-Techniczna, Automatyzacja-Nowości i Perspektywy (02-04.04.2008 Warszawa)</li>
-</ol>
 
+<head>
+    	<title>Leaflet debug page</title>
 
+    	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-beta.2/leaflet.css" />
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-beta.2/leaflet.js"></script>
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<link rel="stylesheet" href="leaflet_dist/screen.css" />
 
-{% if site.talkmap_link == true %}
+    	<link rel="stylesheet" href="leaflet_dist/MarkerCluster.css" />
+    	<link rel="stylesheet" href="leaflet_dist/MarkerCluster.Default.css" />
+    	<script src="leaflet_dist/leaflet.markercluster-src.js"></script>
+    	<script src="org-locations.js"></script>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+    </head>
+    <body>
 
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+    	<div id="map"></div>
+    	<span>Mouse over a cluster to see the bounds of its children and click a cluster to zoom to those bounds</span>
+    	<script type="text/javascript">
+    		var tiles = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+              maxZoom: 18,
+              attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
+                    }),
+    			latlng = L.latLng(30, 10);
+    		var map = L.map('map', {center: latlng, zoom: 0.7, layers: [tiles]});
+    		var markers = L.markerClusterGroup({
+    			showCoverageOnHover: false,
+    			maxClusterRadius: 80
+    			});
+    		for (var i = 0; i < addressPoints.length; i++) {
+    			var a = addressPoints[i];
+    			var title = a[0];
+    			var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title });
+    			marker.bindPopup(title);
+    			markers.addLayer(marker);
+    		}
+    		map.addLayer(markers);
+    		map.zoomIn();
+    	</script>
+      
+      <ol reversed="reversed">
+          <li>	World Conference on Mass Customization, Personalization, and Co-Creation (04-07.02.2014 Aalborg, Dania)</li>
+          <li>	18th IEEE International Conference on Emerging Technologies and Factory Automation (10-13.09.2013 Cagliari, Włochy)</li>
+          <li>	IFAC Conference on Manufacturing Modelling, Management, and Control (19-21.06.2013 Sankt Petersburg, Rosja)</li>
+          <li>	XVIII Krajowa Konferencja Automatyzacji Procesów Dyskretnych (19-22.09.2012 Zakopane)</li>
+          <li>	17th IEEE International Conference on Emerging Technologies and Factory Automation (17-21.09.2012 Kraków)</li>
+          <li>	33rd International Conference Information Systems Architecture and Technology (16-18.09.2012 Szklarska Poręba)</li>
+          <li>	Workshop on Multimodal Networks Modeling and Design (05.06.2012 Warszawa)</li>
+          <li>	14th IFAC Symposium on Information Control Problems in Manufacturing (23-25.05.2012 Bukareszt, Rumunia)</li>
+          <li>	10th International Conference on Practical Applications of Agents and Multi-Agent Systems (28-30.03.2012 Salamanca, Hiszpania)</li>
+          <li>	XVIII Konferencja Systemy Czasu Rzeczywistego (12-15.09.2011 Czarna k. Ustrzyk Dolnych)</li>
+          <li>	XIII Krajowa Konferencja Inżynierii Oprogramowania (12-15.09.2011 Czarna k. Ustrzyk Dolnych)</li>
+          <li>	5th International ICSC Symposium on Information Technologies in Environmental Engineering (06-08.07.2011 Poznań)</li>
+          <li>	International Symposium on Distributed Computing and Artificial Intelligence (06-08.04.2011 Salamanca, Hiszpania)</li>
+          <li>	XII Krajowa Konferencja Inżynierii Oprogramowania (27-29.09.2010 Gdańsk)</li>
+          <li>	XI Krajowa Konferencja Robotyki (09-12.09.2010 Karpacz)</li>
+          <li>	3rd International Conference on Knowledge Science, Engineering and Management (25-27.11.2009 Wiedeń, Austria)</li>
+          <li>	XVII Krajowa Konferencja, Polioptymalizacja i Komputerowe Wspomaganie Projektowania (15-18.06.2009 Sarbinowo)</li>
+          <li>	II konferencja, IT and Knowledge Management 2009 (27-28.04.2009 Jastrzębia Góra)</li>
+          <li>	Automation 2009, XIII Konferencja Naukowo-Techniczna, Automatyzacja-Nowości i Perspektywy (01-03.04.2009 Warszawa)</li>
+          <li>	9th IFAC Workshop on Intelligent Manufacturing Systems (09-10.10.2008 Szczecin)</li>
+          <li>	The Twenty First International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems (18-20.06.2008 Wrocław)</li>
+          <li>	X Krajowa Konferencja Robotyki (03-06.09.2008 Piechowice)</li>
+          <li>	Bazy Danych: Aplikacje i Systemy2008 (27-30.05.2008 Ustroń)</li>
+          <li>	Conference on Human System Interaction (25-27.05.2008 Kraków)</li>
+          <li>	I Konferencja, IT and Knowledge Management 2008 (17-18.04.2008 Jastrzębia Góra)</li>
+          <li>	Automation 2008, XII Konferencja Naukowo-Techniczna, Automatyzacja-Nowości i Perspektywy (02-04.04.2008 Warszawa)</li>
+      </ol>
+      
+    </body>
