@@ -33,6 +33,26 @@ var addressPoints = [
     "Warszawa, NMND 2012",
     52.229,
     21.0117
+  ],
+  [
+    "Bukareszt, INCOM 2012",
+    44.4322,
+    26.1062
+  ],
+  [
+    "Salamanka, PAAMS 2012",
+    40.9688,
+    -5.6638
+  ],
+  [
+    "Czarna k. Ustrzyk Dolnych, SCR 2011, KKIO 2011",
+    49.321,
+    22.678
+  ],
+  [
+    "Poznań, ICSC 2011",
+    52.406,
+    16.929
   ]
   
 ];
