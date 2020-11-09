@@ -71,8 +71,8 @@ var addressPoints = [
   ],
   [
     "Sarbinowo, KPiKWP 2009",
-    52.657,
-    14.67
+    54.249,
+    15.959
   ],
   [
     "Jastrzębia Góra, ITKM 2008-2009",
