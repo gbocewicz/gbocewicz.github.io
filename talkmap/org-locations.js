@@ -23,6 +23,16 @@ var addressPoints = [
     "Karaków, ETFA 2012",
     50.0614,
     19.9365
+  ],
+  [
+    "Szklarska Poręba, ISAT 2012",
+    50.825,
+    15.522
+  ],
+  [
+    "Warszawa, NMND 2012",
+    52.229,
+    21.0117
   ]
   
 ];
