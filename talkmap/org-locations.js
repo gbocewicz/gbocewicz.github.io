@@ -2,7 +2,7 @@ var addressPoints = [
   [
     "Cagliari, ETFA 2013",
     39.21,
-    -9.14
+    9.14
   ],
   [
     "London, UK",
