@@ -6,8 +6,8 @@ var addressPoints = [
   ],
   [
     "Aalborg, MCPC 2014",
-    57.674,
-    11.6925
+    57.048,
+    9.9187
   ],
   [
     "San Francisco, California",
