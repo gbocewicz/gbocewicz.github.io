@@ -20,7 +20,7 @@ var addressPoints = [
     19.9488500
   ],
   [
-    "Karaków, ETFA 2012",
+    "Karaków, HSI 2008, ETFA 2012",
     50.0614,
     19.9365
   ],
@@ -30,7 +30,7 @@ var addressPoints = [
     15.522
   ],
   [
-    "Warszawa, NMND 2012",
+    "Warszawa, Automation 2008-2009, NMND 2012",
     52.229,
     21.0117
   ],
@@ -68,6 +68,36 @@ var addressPoints = [
     "Wiedeń, KSEM 2009",
     48.2084,
     16.3720
+  ],
+  [
+    "Sarbinowo, KPiKWP 2009",
+    52.657,
+    14.67
+  ],
+  [
+    "Jastrzębia Góra, ITKM 2008-2009",
+    54.8295,
+    18.312
+  ],
+  [
+    "Szczecin, IMS 2008",
+    53.4289,
+    14.553
+  ],
+  [
+    "Wrocław, IEA/AIE 2008",
+    51.100,
+    17.033
+  ],
+  [
+    "Piechowice, KKR 2008",
+    50.849,
+    15.5988
+  ],
+  [
+    "Ustroń, BDAS 2018",
+    49.72153,
+    18.8019
   ]
   
 ];
