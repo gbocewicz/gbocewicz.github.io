@@ -18,5 +18,11 @@ var addressPoints = [
     "Zakopane, KKAPD 2012",
     49.2989900,
     19.9488500
+  ],
+  [
+    "Karaków, ETFA 2012",
+    50.0614,
+    19.9365
   ]
+  
 ];
