@@ -40,7 +40,7 @@ var addressPoints = [
     26.1062
   ],
   [
-    "Salamanka, PAAMS 2012",
+    "Salamanka, PAAMS 2012, DCAI 2011",
     40.9688,
     -5.6638
   ],
@@ -53,6 +53,21 @@ var addressPoints = [
     "Poznań, ICSC 2011",
     52.406,
     16.929
+  ],
+  [
+    "Gdańsk, KKIO 2010",
+    54.3520,
+    18.646
+  ],
+  [
+    "Karpacz, KKR 2010",
+    50.7766,
+    15.755
+  ],
+  [
+    "Wiedeń, KSEM 2009",
+    48.2084,
+    16.3720
   ]
   
 ];
