@@ -40,7 +40,7 @@ var addressPoints = [
     26.1062
   ],
   [
-    "Salamanka, PAAMS 2012, DCAI 2011",
+    "Salamanka, PAAMS 2012, 2014, DCAI 2011",
     40.9688,
     -5.6638
   ],
@@ -95,9 +95,14 @@ var addressPoints = [
     15.5988
   ],
   [
-    "Ustroń, BDAS 2018",
+    "Ustroń, BDAS 2008",
     49.72153,
     18.8019
+  ],
+  [
+    "Gdynia, KES 2014",
+    54.51889,
+    18.53188
   ]
   
 ];
