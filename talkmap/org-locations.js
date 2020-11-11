@@ -40,12 +40,12 @@ var addressPoints = [
     26.1062
   ],
   [
-    "Salamanka, PAAMS 2012, 2014, DCAI 2011",
+    "Salamanka, PAAMS 2012, 2014; DCAI 2011, 2015",
     40.9688,
     -5.6638
   ],
   [
-    "Czarna k. Ustrzyk Dolnych, SCR 2011, KKIO 2011",
+    "Czarna k. Ustrzyk Dolnych, SCR 2011; KKIO 2011",
     49.321,
     22.678
   ],
@@ -103,6 +103,11 @@ var addressPoints = [
     "Gdynia, KES 2014",
     54.51889,
     18.53188
+  ],
+  [
+    "Ottawa, INCOM 2015",
+     45.41117,
+    -75.69812
   ]
   
 ];
