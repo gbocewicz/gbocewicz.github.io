@@ -85,7 +85,7 @@ var addressPoints = [
     14.553
   ],
   [
-    "Wrocław, IEA/AIE 2008",
+    "Wrocław, IEA/AIE 2008, IDEAL 2015",
     51.100,
     17.033
   ],
@@ -108,6 +108,11 @@ var addressPoints = [
     "Ottawa, INCOM 2015",
      45.41117,
     -75.69812
+  ],
+  [
+    "Karpacz, ISAT 2015",
+     50.7766,
+     15.75594
   ]
   
 ];
