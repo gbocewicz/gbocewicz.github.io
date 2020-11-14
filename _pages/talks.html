@@ -8,6 +8,24 @@ author_profile: true
 #more {display: none;}
 </style>
 
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Czytaj więcej"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Czytaj mniej"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
  <iframe src="/talkmap/map.html" height="520" width="750" style="border:none;"></iframe>    
       <ol reversed="reversed">
           <li> 17th International Symposium on Distributed Computing and Artificial Intelligence, <b>DCAI 2020</b> (07-09.10.2020, online)</li>  
@@ -31,6 +49,7 @@ Cyclic processes modelling and performance evaluation</b></li>
           <li>	XXI Konferencja Naukowo-Techniczna, Automatyzacja-Nowości i Perspektywy, <b>Automation 2017</b> (15-17.03.2017, Warszawa)</li>
           <li>	IFAC Conference on Manufacturing Modelling, Management, and Control, <b>MIM 2016</b> (28-30.06.2016 Troyes, Francja)</li>
           <li> 13th International Symposium on Distributed Computing and Artificial Intelligence, <b>DCAI 2016</b> (01-03.06.2016, Sewilla, Hiszpania)</li>
+        <span id="dots">...</span><span id="more">
           <li> 16th International Conference on Intelligent Data Engineering and Automated Learning, <b>IDEAL 2015</b> (14-16.10.2015, Wrocław) </li>
           <li>	36rd International Conference Information Systems Architecture and Technology, <b>ISAT 2015</b> (20-22.09.2015, Karpacz)</li>
           <li> 12th International Symposium on Distributed Computing and Artificial Intelligence, <b>DCAI 2015</b> (03-05.06.2015 Salamanca, Hiszpania)</li>
@@ -51,7 +70,6 @@ Cyclic processes modelling and performance evaluation</b></li>
           <li>	5th International ICSC Symposium on Information Technologies in Environmental Engineering, <b>ICSC 2011</b> (06-08.07.2011, Poznań)</li>
           <li>	International Symposium on Distributed Computing and Artificial Intelligence, <b>DCAI 2011</b> (06-08.04.2011 Salamanca, Hiszpania)</li>
           <li>	XII Krajowa Konferencja Inżynierii Oprogramowania, <b>KKIO 2010</b> (27-29.09.2010, Gdańsk)</li>
-      <span id="dots">...</span><span id="more">
           <li>	XI Krajowa Konferencja Robotyki, <b>KKR 2010</b> (09-12.09.2010 Karpacz)</li>
           <li>	3rd International Conference on Knowledge Science, Engineering and Management, <b>KSEM 2009</b> (25-27.11.2009 Wiedeń, Austria)</li>
           <li>	XVII Krajowa Konferencja, Polioptymalizacja i Komputerowe Wspomaganie Projektowania, <b>KPiKWP 2009</b> (15-18.06.2009, Sarbinowo)</li>
@@ -66,25 +84,12 @@ Cyclic processes modelling and performance evaluation</b></li>
           <li>	XII Konferencja Naukowo-Techniczna, Automatyzacja-Nowości i Perspektywy, <b>Automation 2008</b> (02-04.04.2008, Warszawa)</li>
        </span>
       </ol>
-<button onclick="myFunction()" id="myBtn">Read more</button>
+<button onclick="myFunction()" id="myBtn">Czytaj więcej</button>
 
-<script>
-function myFunction() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
-  var btnText = document.getElementById("myBtn");
-
-  if (dots.style.display === "none") {
-    dots.style.display = "inline";
-    btnText.innerHTML = "Read more"; 
-    moreText.style.display = "none";
-  } else {
-    dots.style.display = "none";
-    btnText.innerHTML = "Read less"; 
-    moreText.style.display = "inline";
-  }
-}
-</script>
+<h2>Aktywność organizacyjna</h2>
+<ol reversed="reversed">
+ <li>Invited Session - <b>AI–driven methodsfor Distributed Service Networksand performance evaluation (ADSN2021)</b>, 17th IFAC Symposium on Information Control Problems in Manufacturing, INCOM 2021, (07-09,06,2021)  </li>
+</ol>
 
         
        
