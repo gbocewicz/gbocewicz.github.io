@@ -25,12 +25,12 @@ var addressPoints = [
     19.9365
   ],
   [
-    "Szklarska Poręba, ISAT 2012",
+    "Szklarska Poręba, ISAT 2012,2017",
     50.825,
     15.522
   ],
   [
-    "Warszawa, Automation 2008-2009, NMND 2012",
+    "Warszawa, Automation 2008-2009,2017, NMND 2012",
     52.229,
     21.0117
   ],
@@ -123,6 +123,11 @@ var addressPoints = [
     "Troyes, MIM 2016",
      48.30,
      4.08333
+  ],
+  [
+    "Porto, DCAI 2017",
+      41.14961,
+      -8.61099
   ]
   
 ];
