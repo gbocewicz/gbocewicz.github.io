@@ -30,7 +30,7 @@ var addressPoints = [
     15.522
   ],
   [
-    "Warszawa, Automation 2008-2009,2017, NMND 2012",
+    "Warszawa, Automation 2008-2009,2017,2018; NMND 2012",
     52.229,
     21.0117
   ],
@@ -85,7 +85,7 @@ var addressPoints = [
     14.553
   ],
   [
-    "Wrocław, IEA/AIE 2008, IDEAL 2015",
+    "Wrocław, IEA/AIE 2008; IDEAL 2015; ISPEM 2018",
     51.100,
     17.033
   ],
@@ -128,6 +128,26 @@ var addressPoints = [
     "Porto, DCAI 2017",
       41.14961,
       -8.61099
+  ],
+  [
+    "Sao Paulo, INDUSCON 2018",
+      -23.5475,
+      -46.63611
+  ],
+  [
+    "Wilno, ICIST 2018-2019",
+      54.68916,
+      25.2798
+  ],
+  [
+    "Nysa, ISAT 2018",
+      50.47379,
+      17.33437
+  ],
+  [
+    "Toledo, DCAI 2018",
+      39.858,
+      -4.02263
   ]
   
 ];
