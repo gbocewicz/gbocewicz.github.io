@@ -43,8 +43,8 @@ Praca Zawodowa
 
 Pełnione funkcje
 ================
-|2020 - obecnie|członek Polskiego Stowarzyszenia Pomiarów, Automatyki i Robotyki [POLSPAR](http://www.konsulting.gda.pl/polspar/) - Komietet Automatki PK |
-|-------------------------------|------------------------------------------------------------|
+|2020 - obecnie|członek Polskiego Stowarzyszenia Pomiarów, Automatyki i Robotyki [POLSPAR](http://www.konsulting.gda.pl/polspar/) - Komietet Automatki|
+|--------------------------------------|------------------------------------------------------------|
 |2019 - obecnie|przewodniczący Rady Naukowej dyscypliny Automatyka, Elektronika i Elektrotechnika PK [WEiI](https://weii.tu.koszalin.pl/)|
 |2019 - obecnie|członek komitetu TC 5.2. Management and Control in Manufacturing and Logistics, [IFAC](https://tc.ifac-control.org/5/2)|
 |2018 - obecnie|ekspert Narodowego Centrum Badań i Rozwoju [NCBR](https://www.ncbr.gov.pl/)| 
