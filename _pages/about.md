@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Od ponad 20 lat związany z Politechniką Koszalińską [PK](https://tu.koszalin.pl/). Najpierw jako student Wydziału Elektroniki i Informatyki [WEiI](https://weii.tu.koszalin.pl/) (kierunek Telekomunikacja - 2006r.) dalej pracownik Katedry Podstaw Informatyki i Zarządzania a obecnie Dziekan Wydziału (od 2016r).  
+Od ponad 20 lat związany z Politechniką Koszalińską [PK](https://tu.koszalin.pl/). Najpierw jako student Wydziału Elektroniki i Informatyki [WEiI](https://weii.tu.koszalin.pl/) (kierunek Telekomunikacja - 2006r.) dalej pracownik Katedry Podstaw Informatyki i Zarządzania a obecnie Dziekan Wydziału (od 2016r.).  
 
 Doktorat (2007r.) i habilitacja (2014r.) uzyskane w dyscyplinie informatyka na Politechnice Wrocławskiej [PWR](https://pwr.edu.pl/) (Wydział Informatyki i Zarządzania), z którą do dzisiaj związany jest w zakresie prowadzonych badań naukowych. 
 
