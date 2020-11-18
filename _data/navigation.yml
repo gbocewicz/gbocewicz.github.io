@@ -3,6 +3,9 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Zatrudnienie"
+    url: /portfolio/ 
+    
   - title: "Publikacje"
     url: /publications/
 
@@ -12,11 +15,10 @@ main:
   - title: "Kształcenie"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
        
-  - title: "Guide"
+  - title: "Inne"
     url: /markdown/
