@@ -15,17 +15,17 @@ Wykształcenie
 
 |2007 | __uzyskanie stopnia doktora nauk technicznych__|
 |---------------------------|------------------------------------------------------------|
-|     | Wydział Informatyki i Zarządzania Politechniki Wrocławskiej, dyscyplina: informatyka, specjalność: systemy wspomagania decyzji	temat: Zastosowanie metod programowania z ograniczeniami w zadaniowo zorientowanych systemach interakcyjnego wspomagania decyzji|
+|     | Wydział Informatyki i Zarządzania Politechniki Wrocławskiej, dyscyplina: informatyka, specjalność: systemy wspomagania decyzji,	temat: Zastosowanie metod programowania z ograniczeniami w zadaniowo zorientowanych systemach interakcyjnego wspomagania decyzji|
 
 |2006 | __uzyskanie tytułu magistra__|
 |---------------------------|------------------------------------------------------------|
-|     | Wydział Elektroniki i Inforamtyki Politechniki Koszalińskiej, Kierunek: Elektronika i Telekomunikacja, specjalność: Komunikacja Cyfrowa: Zastosowanie metod programowania z ograniczeniami do budowy systemu wspomagania decyzji w małych i średnich przedsiębiorstwach|
+|     | Wydział Elektroniki i Inforamtyki Politechniki Koszalińskiej, kierunek: Elektronika i Telekomunikacja, temat: Zastosowanie metod programowania z ograniczeniami do budowy systemu wspomagania decyzji w małych i średnich przedsiębiorstwach|
 
 |2004 | __uzyskanie stopnia inżyniera__|
 |---------------------------|------------------------------------------------------------|
-|     | Wydział Elektroniki i Inforamtyki Politechniki Koszalińskiej, Kierunek: Elektronika i Telekomunikacja,  Stanowisko do badania dyspersji w światłowodach włóknistych|
+|     | Wydział Elektroniki i Inforamtyki Politechniki Koszalińskiej, kierunek: Elektronika i Telekomunikacja, temat: Stanowisko do badania dyspersji w światłowodach włóknistych|
 
-|2000 | __uzyskanie tytułu zawodowego technika__|
-|:----|:---------------------------------------------------------------------------------|
-|     | Technikum Elektryczne, Zespół Szkół Ponadgimnazjalnych w Białogardzie            |
+|2000| __uzyskanie tytułu zawodowego technika__|
+|:--|:---------------------------------------------------------------------------------|
+|   | Technikum Elektryczne, Zespół Szkół Ponadgimnazjalnych w Białogardzie            |
 
