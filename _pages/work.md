@@ -19,10 +19,10 @@ Zatrudnienie
 Pełnione funkcje
 ================
 
-|od 2020|członek Polskiego Stowarzyszenia Pomiarów, Automatyki i Robotyki (Komitet Automatki), [POLSPAR](http://www.konsulting.gda.pl/polspar/)|
+|od 2020|członek Polskiego Stowarzyszenia Pomiarów, Automatyki i Robotyki (Komitet Automatyki), [POLSPAR](http://www.konsulting.gda.pl/polspar/)|
 |--------------------------------------|------------------------------------------------------------|
 |od 2019|przewodniczący Rady Naukowej Dyscypliny Automatyka, Elektronika i Elektrotechnika, [WEiI PK](https://weii.tu.koszalin.pl/)|
-|od 2019|przewodniczący Rady Dyscypliny Informatki Technicznej i Telekomunikacji, [WEiI PK](https://weii.tu.koszalin.pl/)|
+|od 2019|przewodniczący Rady Dyscypliny Informatyki Technicznej i Telekomunikacji, [WEiI PK](https://weii.tu.koszalin.pl/)|
 |od 2019|członek komitetu TC 5.2. Management and Control in Manufacturing and Logistics, [IFAC](https://tc.ifac-control.org/5/2)|
 |od 2018|ekspert Narodowego Centrum Badań i Rozwoju, [NCBR](https://www.ncbr.gov.pl/)| 
 |od 2015|członek komitetu TC 5.1. Manufacturing Plant Control, [IFAC](https://tc.ifac-control.org/5/1)| 
