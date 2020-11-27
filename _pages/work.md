@@ -11,7 +11,7 @@ Zatrudnienie
 |---------------------------|------------------------------------------------------------|
 |2015 - obecnie|Profesor uczelni, Katedra Podstaw Informatyki i Zarządzania, [WEiI](https://weii.tu.koszalin.pl/)|
 |2015(X-XII)   |Profesor wizytujący, Wyższa Szkoła Bankowa w Gdańsku, [WSB](https://www.wsb.pl/gdansk/)| 
-|2012 - 2013   |Wykładowca, Uniwersyt Dziecięcy, Prywatne Centrum Edukacyjne, Białogard|
+|2012 - 2013   |Wykładowca, Uniwersytet Dziecięcy, Prywatne Centrum Edukacyjne, Białogard|
 |2007 - 2015   |Adiunkt, Katedra Podstaw Informatyki i Zarządzania, [WEiI PK](https://weii.tu.koszalin.pl/)||
 |2006 - 2007   |Asystent, Katedra Podstaw Informatyki i Zarządzania, [WEiI PK](https://weii.tu.koszalin.pl/)|
 |2004 - 2006   |Asystent stażysta, Katedra Telekomunikacji, [WEiI PK](https://weii.tu.koszalin.pl/)| 
