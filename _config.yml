@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Grzegorz Bocewicz"
   avatar           : "profile.png"
-  bio              : "Politechnika Koszalińska, Wydział Elektroniki i Informatyki"
+  bio              : "<a href="https://tu.koszalin.pl/">Politechnika Koszalińska, Wydział Elektroniki i Informatyki</a>"
   location         : "Koszalin"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
