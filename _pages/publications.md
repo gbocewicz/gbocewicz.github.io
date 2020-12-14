@@ -5,7 +5,7 @@ author_profile: true
 ---
 Najważniejsze publikacje
 ========================
-0. Bocewicz G., Nielsen P., Jasiulewicz-Kaczmarek M., Banaszak Z. Dynamic Planning of Mobile Service Teams’ Mission Subject to Orders Uncertainty Constraints. _Applied Sciences_,  10, 2020, 8872, [doi:10.3390/app10248872](https://doi.org/10.3390/app10248872) 
+0. Bocewicz G., Nielsen P., Jasiulewicz-Kaczmarek M., Banaszak Z., Dynamic Planning of Mobile Service Teams’ Mission Subject to Orders Uncertainty Constraints. _Applied Sciences_,  10, 2020, 8872, [doi:10.3390/app10248872](https://doi.org/10.3390/app10248872) 
 0.	Relich M., Bocewicz G., Rostek K.B., Banaszak Z., A Declarative Approach to New Product Development Project Prototyping. _IEEE Intelligent Systems_, 2020, [doi: 10.1109/MIS.2020.3030481](https://www.computer.org/csdl/magazine/ex/5555/01/09222470/1nTrR5ybDeo)
 0.	Szwarc E., Wikarek J., Gola A., Bocewicz G., Banaszak Z., Interactive Planning of Competency-Driven University Teaching Staff Allocation. _Applied Sciences_, 10(14), 2020, 4894, [doi:10.3390/app10144894](https://www.mdpi.com/2076-3417/10/14/4894)
 0.	Bocewicz G., Banaszak Z., Rudnik K., Witczak M., Smutnicki C., Wikarek J., Milk-run routing and scheduling subject to fuzzy pickup and delivery time constraints: An ordered fuzzy numbers approach. _IEEE International Conference on Fuzzy Systems_, 2020, art. no. 9177733, [doi:10.1109/FUZZ48607.2020.9177733](https://ieeexplore.ieee.org/document/9177733)
