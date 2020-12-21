@@ -30,5 +30,6 @@ Pełnione funkcje
 |od 2016|członek Senatu Politechniki Koszalińskiej, [PK](https://tu.koszalin.pl/)|
 |od 2013|członek rady naukowej czasopisma Production & Manufacturing Research, Taylor & Francis, [PMR](https://www.tandfonline.com/toc/tpmr/current)|
 |od 2012|członek rady naukowej czasopisma Applied Computer Science, [ACS](http://www.acs.pollub.pl/)|
+|od 2010|członek Stowarzyszenia Elektryków Polskich, [SEP](http://www.sep.koszalin.pl/)|
 
 
