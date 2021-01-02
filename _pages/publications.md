@@ -5,6 +5,7 @@ author_profile: true
 ---
 Najważniejsze publikacje
 ========================
+0.Bocewicz G., Banaszak Z., Rudnik K., Smutnicki C., Witczak M., Wójcik R.,An ordered-fuzzy-numbers-driven approach to the milk-run routing and scheduling problem, _Journal of Computational Science_, 2020, 101288, [doi:10.1016/j.jocs.2020.101288](https://doi.org/10.1016/j.jocs.2020.101288)
 0. Bocewicz G., Nielsen P., Jasiulewicz-Kaczmarek M., Banaszak Z., Dynamic Planning of Mobile Service Teams’ Mission Subject to Orders Uncertainty Constraints. _Applied Sciences_,  10, 2020, 8872, [doi:10.3390/app10248872](https://doi.org/10.3390/app10248872) 
 0.	Relich M., Bocewicz G., Rostek K.B., Banaszak Z., A Declarative Approach to New Product Development Project Prototyping. _IEEE Intelligent Systems_, 2020, [doi: 10.1109/MIS.2020.3030481](https://www.computer.org/csdl/magazine/ex/5555/01/09222470/1nTrR5ybDeo)
 0.	Szwarc E., Wikarek J., Gola A., Bocewicz G., Banaszak Z., Interactive Planning of Competency-Driven University Teaching Staff Allocation. _Applied Sciences_, 10(14), 2020, 4894, [doi:10.3390/app10144894](https://www.mdpi.com/2076-3417/10/14/4894)
