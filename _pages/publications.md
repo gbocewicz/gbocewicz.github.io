@@ -5,6 +5,8 @@ author_profile: true
 ---
 Najważniejsze publikacje
 ========================
+0. Rudnik K., Bocewicz G., Kucińska-Landwójtowicz A., Czabak-Górska I.D., Ordered fuzzy WASPAS method for selection of improvement projects, Expert Systems with Applications, 2020, 114471, [doi:10.1016/j.eswa.2020.114471](https://doi.org/10.1016/j.eswa.2020.114471)
+0. Bocewicz G, Szwarc E, Wikarek J, Nielsen P, Banaszak Z. A competency-driven staff assignment approach to improving employee scheduling robustness. _Eksploatacja i Niezawodnosc – Maintenance and Reliability_, 2021, 23(1), 117–131, [doi:10.17531/ein.2021.1.13](http://dx.doi.org/10.17531/ein.2021.1.13)
 0. Bocewicz G., Banaszak Z., Rudnik K., Smutnicki C., Witczak M., Wójcik R., An ordered-fuzzy-numbers-driven approach to the milk-run routing and scheduling problem, _Journal of Computational Science_, 2020, 101288, [doi:10.1016/j.jocs.2020.101288](https://doi.org/10.1016/j.jocs.2020.101288)
 0. Bocewicz G., Nielsen P., Jasiulewicz-Kaczmarek M., Banaszak Z., Dynamic Planning of Mobile Service Teams’ Mission Subject to Orders Uncertainty Constraints. _Applied Sciences_,  10, 2020, 8872, [doi:10.3390/app10248872](https://doi.org/10.3390/app10248872) 
 0.	Relich M., Bocewicz G., Rostek K.B., Banaszak Z., A Declarative Approach to New Product Development Project Prototyping. _IEEE Intelligent Systems_, 2020, [doi: 10.1109/MIS.2020.3030481](https://www.computer.org/csdl/magazine/ex/5555/01/09222470/1nTrR5ybDeo)
