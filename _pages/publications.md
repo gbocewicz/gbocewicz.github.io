@@ -5,8 +5,9 @@ author_profile: true
 ---
 Najważniejsze publikacje
 ========================
+0. Radzki G., Bocewicz G., Dybała B., Banaszak Z., Reactive Planning-Driven Approach to Online UAVs Mission Rerouting and Rescheduling. _Applied Sciences_, 11, 8898, 2021, [doi:10.3390/app11198898](https://doi.org/10.3390/app11198898)
 0. Radzki G., Bocewicz G., Golińska-Dawson P., Jasiulewicz-Kaczmarek M., Witczak M., Banaszak Z. Periodic planning of UAVs' fleet mission with the uncertainty of travel parameters. IEEE International Conference on Fuzzy Systems, 2021, [doi.org/10.1109/FUZZ45933.2021.9494491](https://ieeexplore.ieee.org/abstract/document/9494491)
-0. Saha S., Banaszak Z., Bocewicz G., Nielsen I. Pricing and quality competition for substitutable green products with a common retailer. _Operational Research_ , 2021, [doi.org/10.1007/s12351-021-00656-z](https://doi.org/10.1007/s12351-021-00656-z) 
+0. Saha S., Banaszak Z., Bocewicz G., Nielsen I. Pricing and quality competition for substitutable green products with a common retailer. _Operational Research_, 2021, [doi.org/10.1007/s12351-021-00656-z](https://doi.org/10.1007/s12351-021-00656-z) 
 0. Radzki G., Nielsen I., Golińska-Dawson P., Bocewicz G., Banaszak Z. Reactive UAV Fleet’s Mission Planning in Highly Dynamic and Unpredictable Environments. _Sustainability_, 2021, 13, 5228, [doi.org/10.3390/su13095228](https://doi.org/10.3390/su13095228)
 0. Rudnik K., Bocewicz G., Kucińska-Landwójtowicz A., Czabak-Górska I.D., Ordered fuzzy WASPAS method for selection of improvement projects, _Expert Systems with Applications_, 2021, 169, 114471, [doi:10.1016/j.eswa.2020.114471](https://doi.org/10.1016/j.eswa.2020.114471)
 0. Bocewicz G., Banaszak Z., Rudnik K., Smutnicki C., Witczak M., Wójcik R., An ordered-fuzzy-numbers-driven approach to the milk-run routing and scheduling problem, _Journal of Computational Science_, 49, 2021, 101288, [doi:10.1016/j.jocs.2020.101288](https://doi.org/10.1016/j.jocs.2020.101288)
