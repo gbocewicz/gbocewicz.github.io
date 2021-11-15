@@ -5,6 +5,7 @@ author_profile: true
 ---
 Najważniejsze publikacje
 ========================
+0.	Sitek P., Wikarek J., Bocewicz G., Nielsen I., O decision support model for handling customer orders in business chain. _Neurocomputing_, 2021, [doi:10.1016/j.neucom.2021.06.099](https://doi.org/10.1016/j.neucom.2021.06.099) 
 0. Radzki G., Bocewicz G., Dybała B., Banaszak Z., Reactive Planning-Driven Approach to Online UAVs Mission Rerouting and Rescheduling. _Applied Sciences_, 11, 8898, 2021, [doi:10.3390/app11198898](https://www.mdpi.com/2076-3417/11/19/8898)
 0. Radzki G., Bocewicz G., Golińska-Dawson P., Jasiulewicz-Kaczmarek M., Witczak M., Banaszak Z. Periodic planning of UAVs' fleet mission with the uncertainty of travel parameters. IEEE International Conference on Fuzzy Systems, 2021, [doi.org/10.1109/FUZZ45933.2021.9494491](https://ieeexplore.ieee.org/abstract/document/9494491)
 0. Saha S., Banaszak Z., Bocewicz G., Nielsen I. Pricing and quality competition for substitutable green products with a common retailer. _Operational Research_, 2021, [doi.org/10.1007/s12351-021-00656-z](https://doi.org/10.1007/s12351-021-00656-z) 
