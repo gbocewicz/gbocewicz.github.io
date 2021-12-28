@@ -9,6 +9,10 @@ redirect_from:
 Wykształcenie
 ======
 
+|2021 | __uzyksanie certyfikatu PRINCE2® 6th Edition Foundation in Project Management__|
+|---------------------------|------------------------------------------------------------|
+|     | Altkom Akademia - akredytowane szkolenie z egzaminem, PRINCE2® 6th edition Foundation|
+
 |2014 | __uzyskanie stopnia doktora habilitowanego nauk technicznych__|
 |---------------------------|------------------------------------------------------------|
 |     | Wydział Informatyki i Zarządzania Politechniki Wrocławskiej, dyscyplina: informatyka,	temat: Modele Systemów Multimodalnych Procesów Cyklicznych|
