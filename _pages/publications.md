@@ -5,6 +5,7 @@ author_profile: true
 ---
 Najważniejsze publikacje
 ========================
+0. Radzki G., Bocewicz G., Wikarek J., Nielsen P., Banaszak Z. Comparison of exact and approximate approaches to UAVs mission contingency planning in dynamic environments, _Mathematical Biosciences and Engineering_, 2022, 19(7), 7091-7121, [doi:10.3934/mbe.2022335](http://www.aimspress.com/article/doi/10.3934/mbe.2022335)
 0.	Sitek P., Wikarek J., Bocewicz G., Nielsen I. A decision support model for handling customer orders in business chain. _Neurocomputing_, 2022, 482, 298-309, [doi:10.1016/j.neucom.2021.06.099](https://doi.org/10.1016/j.neucom.2021.06.099)
 0. Smutnicki C., Pempera J., Bocewicz G., Banaszak Z. Cyclic flow-shop scheduling with no-wait constraints and missing operations, _European Journal of Operational Research_, 2022, [doi:10.1016/j.ejor.2021.12.049](https://doi.org/10.1016/j.ejor.2021.12.049)
 0. Radzki G., Golinska-Dawson P., Bocewicz G., Banaszak Z. Modelling Robust Delivery Scenarios for a Fleet of Unmanned Aerial Vehicles in Disaster Relief Missions. _Journal of Intelligent & Robotic Systems_, 2021, 103(63), [doi:10.1016/j.neucom.2021.06.099](https://doi.org/10.1007/s10846-021-01502-2)
