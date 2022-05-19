@@ -50,7 +50,7 @@ var addressPoints = [
     22.678
   ],
   [
-    "Poznań, ICSC 2011",
+    "Poznań, ICSC 2011; Manufacturing 2022",
     52.406,
     16.929
   ],
