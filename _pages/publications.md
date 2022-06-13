@@ -5,6 +5,8 @@ author_profile: true
 ---
 Najważniejsze publikacje
 ========================
+0. Wójcik R., Pempera J., Bocewicz G., Banaszak Z. The no-wait cyclic scheduling of delivery traffic in the grid distribution network. _ISA Transactions_,
+2022, [doi:10.1016/j.isatra.2022.05.031](https://doi.org/10.1016/j.isatra.2022.05.031)
 0. Radzki G., Bocewicz G., Wikarek J., Nielsen P., Banaszak Z. Comparison of exact and approximate approaches to UAVs mission contingency planning in dynamic environments, _Mathematical Biosciences and Engineering_, 2022, 19(7), 7091-7121, [doi:10.3934/mbe.2022335](http://www.aimspress.com/article/doi/10.3934/mbe.2022335)
 0.	Sitek P., Wikarek J., Bocewicz G., Nielsen I. A decision support model for handling customer orders in business chain. _Neurocomputing_, 2022, 482, 298-309, [doi:10.1016/j.neucom.2021.06.099](https://doi.org/10.1016/j.neucom.2021.06.099)
 0. Smutnicki C., Pempera J., Bocewicz G., Banaszak Z. Cyclic flow-shop scheduling with no-wait constraints and missing operations, _European Journal of Operational Research_, 302(1), 39-49, [doi:10.1016/j.ejor.2021.12.049](https://doi.org/10.1016/j.ejor.2021.12.049)
