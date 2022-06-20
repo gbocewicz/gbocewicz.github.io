@@ -19,7 +19,7 @@ Zatrudnienie
 Pełnione funkcje
 ================
 
-|2020 - obecnie|członek Polskiego Stowarzyszenia Pomiarów, Automatyki i Robotyki (Komitet Automatyki), [POLSPAR](http://www.konsulting.gda.pl/polspar/)|
+|2020 - obecnie|członek Polskiego Stowarzyszenia Pomiarów, Automatyki i Robotyki, [POLSPAR](http://www.konsulting.gda.pl/polspar/)|
 |--------------------------------------|------------------------------------------------------------|
 |2019 - 2022   |przewodniczący Rady Naukowej Dyscypliny Automatyka, Elektronika i Elektrotechnika, [WEiI PK](https://weii.tu.koszalin.pl/)|
 |2019 - 2022   |przewodniczący Rady Dyscypliny Informatyki Technicznej i Telekomunikacji, [WEiI PK](https://weii.tu.koszalin.pl/)|
