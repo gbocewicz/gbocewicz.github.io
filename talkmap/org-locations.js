@@ -153,6 +153,11 @@ var addressPoints = [
     "Berlin, MIM 2019",
       52.52437,
       13.41053
+  ],
+  [
+    "Międzyzdroje, MMAR 2022",
+      53.928889, 
+      14.451389
   ]
   
 ];
