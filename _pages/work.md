@@ -7,8 +7,9 @@ author_profile: true
 Zatrudnienie 
 ============
 
-|2015 - obecnie|Profesor uczelni, Katedra Podstaw Informatyki i Zarządzania, [WEiI](https://weii.tu.koszalin.pl/) |
+|2022 - obecnie|Kierownik Katedry Podstaw Informatyki i Zarządzania, [WEiI](https://weii.tu.koszalin.pl/) |
 |---------------------------|------------------------------------------------------------|
+|2015 - obecnie|Profesor uczelni, Katedra Podstaw Informatyki i Zarządzania, [WEiI](https://weii.tu.koszalin.pl/) |
 |2016 - 2022   |Dziekan Wydziału Elektroniki i Informatyki [(WEiI)](https://weii.tu.koszalin.pl/) Politechniki Koszalińskiej [(PK)](https://tu.koszalin.pl/)|
 |2015(X-XII)   |Profesor wizytujący, Wyższa Szkoła Bankowa w Gdańsku, [WSB](https://www.wsb.pl/gdansk/)| 
 |2012 - 2013   |Wykładowca, Uniwersytet Dziecięcy, Prywatne Centrum Edukacyjne, Białogard|
