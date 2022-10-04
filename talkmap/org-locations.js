@@ -15,7 +15,7 @@ var addressPoints = [
     30.3141300
   ],
   [
-    "Zakopane, KKAPD 2012",
+    "Zakopane, KKAPD 2012, 2022",
     49.2989900,
     19.9488500
   ],
