@@ -5,7 +5,8 @@ author_profile: true
 ---
 Najważniejsze publikacje
 ========================
-0. Waszkowski R., Bocewicz G. Visibility Matrix: Efficient User Interface Modelling for Low-Code Development Platforms. Sustainability. 2022; 14(13):8103. [doi.org/10.3390/su14138103](https://doi.org/10.3390/su14138103) 
+0. Bocewicz G., Golińska-Dawson P., Szwarc E., Banaszak Z.Preventive maintenance scheduling of a multi-skilled human resource-constrained project’s portfolio. _Engineering Applications of Artificial Intelligence_, 2023, 119,[doi:10.1016/j.engappai.2022.105725](https://doi.org/10.1016/j.engappai.2022.105725)
+0. Waszkowski R., Bocewicz G. Visibility Matrix: Efficient User Interface Modelling for Low-Code Development Platforms. _Sustainability_, 2022, 14(13):8103. [doi.org/10.3390/su14138103](https://doi.org/10.3390/su14138103) 
 0. Wójcik R., Pempera J., Bocewicz G., Banaszak Z. The no-wait cyclic scheduling of delivery traffic in the grid distribution network. _ISA Transactions_,
 2022, [doi:10.1016/j.isatra.2022.05.031](https://doi.org/10.1016/j.isatra.2022.05.031)
 0. Radzki G., Bocewicz G., Wikarek J., Nielsen P., Banaszak Z. Comparison of exact and approximate approaches to UAVs mission contingency planning in dynamic environments, _Mathematical Biosciences and Engineering_, 2022, 19(7), 7091-7121, [doi:10.3934/mbe.2022335](http://www.aimspress.com/article/doi/10.3934/mbe.2022335)
