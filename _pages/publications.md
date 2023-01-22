@@ -5,6 +5,7 @@ author_profile: true
 ---
 Najważniejsze publikacje
 ========================
+0. Szwarc E., Bocewicz G., Golińska-Dawson P., Banaszak Z., Proactive Operations Management: Staff Allocation with Competence Maintenance Constraints. _Sustainability_, 2023, 15(3), 1949. [doi.org/10.3390/su15031949](https://doi.org/10.3390/su15031949) 
 0. Bocewicz G., Golińska-Dawson P., Szwarc E., Banaszak Z.Preventive maintenance scheduling of a multi-skilled human resource-constrained project’s portfolio. _Engineering Applications of Artificial Intelligence_, 2023, 119, [doi:10.1016/j.engappai.2022.105725](https://doi.org/10.1016/j.engappai.2022.105725)
 0. Waszkowski R., Bocewicz G. Visibility Matrix: Efficient User Interface Modelling for Low-Code Development Platforms. _Sustainability_, 2022, 14(13):8103. [doi.org/10.3390/su14138103](https://doi.org/10.3390/su14138103) 
 0. Wójcik R., Pempera J., Bocewicz G., Banaszak Z. The no-wait cyclic scheduling of delivery traffic in the grid distribution network. _ISA Transactions_,
