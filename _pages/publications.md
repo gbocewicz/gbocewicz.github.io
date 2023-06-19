@@ -64,6 +64,7 @@ Monografie/Podręczniki
 
 Redakcje
 ========
+0. [Distributed Computing and Artificial Intelligence, Special Sessions, 19th International Conference](https://link.springer.com/book/10.1007/978-3-031-23210-7), Eds. Machado J.-M., Chamoso P., Hernández G., Bocewicz G., Loukanova R., Jove E., Ricca M., Lecture Notes in Networks and Systems, Springer, 2022, 185s.
 0. [Performance Evaluation Models for Distributed Service Networks](https://www.springer.com/gp/book/9783030670627), Eds. Bocewicz G., Pempera J., Toporkov V.,  Studies in Systems, Decision and Control, Springer, 2021, 185s.
 0. [Modelling and Performance Analysis of Cyclic Systems](https://www.springer.com/gp/book/9783030276515), Eds. Bozejko W., Bocewicz G., Studies in Systems, Decision and Control, Springer, 2020, 190s.
 0. [Ubiquitous manufacturing](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing/vol/45/suppl/C), Eds. Chen T., Warren Liao T., Lee D.-H., Bocewicz G., Robotics and Computer-Integrated Manufacturing, 2017, 180s.
