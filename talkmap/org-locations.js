@@ -30,7 +30,7 @@ var addressPoints = [
     15.522
   ],
   [
-    "Warszawa, Automation 2008-2009,2017-2019,2022; NMND 2012",
+    "Warszawa, Automation 2008-2009,2017-2019,2022,2023; NMND 2012",
     52.229,
     21.0117
   ],
