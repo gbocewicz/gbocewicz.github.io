@@ -158,6 +158,11 @@ var addressPoints = [
     "Międzyzdroje, MMAR 2022",
       53.928889, 
       14.451389
+  ],
+  [
+    "Yokohama, WC-IFAC 2023",
+      35.443707, 
+      139.638031
   ]
   
 ];
