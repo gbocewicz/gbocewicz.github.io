@@ -6,7 +6,8 @@ author_profile: true
 Najważniejsze publikacje
 ========================
 0. Nielsen I., Piyatilake A., Thibbotuwawa A., De Silva M.M., Bocewicz G., Banaszak Z. Benefits Realization of Robotic Process Automation (RPA) Initiatives in Supply Chains. _IEEE Acces_, 2023, 11, 37623-37636, [doi:10.1109/ACCESS.2023.3266293](https://doi.org/10.1109/ACCESS.2023.3266293)
-0. Bocewicz G., Szwarc E., Thibbotuwawa A., Banaszak Z. Project Portfolio Planning Taking into Account the Effect of Loss of Competences of Project Team Members. _Applied Sciences_, 2023, 13(12):7165. [doi:10.3390/app13127165](https://doi.org/10.3390/app13127165) 
+0. Bocewicz G., Szwarc E., Thibbotuwawa A., Banaszak Z. Project Portfolio Planning Taking into Account the Effect of Loss of Competences of Project Team Members. _Applied Sciences_, 2023, 13(12):7165. [doi:10.3390/app13127165](https://doi.org/10.3390/app13127165)
+0. Banaszak Z., Radzki, G., Nielsen I., Frederiksen R., Bocewicz G. Proactive Mis-sion Planning of Unmanned Aerial Vehicle Fleets Used in Offshore Wind Farm Maintenance. _Applied Sciences_,. 2023, 13, 8449, [doi:10.3390/app13148449](https://www.mdpi.com/2076-3417/13/14/8449)
 0. Szwarc E., Bocewicz G., Golińska-Dawson P., Banaszak Z. Proactive Operations Management: Staff Allocation with Competence Maintenance Constraints. _Sustainability_, 2023, 15(3):1949. [doi:10.3390/su15031949](https://doi.org/10.3390/su15031949) 
 0. Bocewicz G., Golińska-Dawson P., Szwarc E., Banaszak Z. Preventive maintenance scheduling of a multi-skilled human resource-constrained project’s portfolio. _Engineering Applications of Artificial Intelligence_, 2023, 119, [doi:10.1016/j.engappai.2022.105725](https://doi.org/10.1016/j.engappai.2022.105725)
 0. Waszkowski R., Bocewicz G. Visibility Matrix: Efficient User Interface Modelling for Low-Code Development Platforms. _Sustainability_, 2022, 14(13):8103. [doi.org/10.3390/su14138103](https://doi.org/10.3390/su14138103) 
