@@ -55,6 +55,7 @@ Najważniejsze publikacje
 
 Monografie/Podręczniki
 ======================
+0. Bocewicz G. Declarative models of concurrent cyclic processes, Springer, 2023, 178s, [doi: 10.1007/978-3-031-40552-5](https://link.springer.com/book/10.1007/978-3-031-40552-5)
 0. Bocewicz G., Modele multimodalnych procesów cyklicznych. Wydawnictwo Uczelniane Politechniki Koszalińskiej, 2013, Koszalin, 289s. 
 0. Banaszak Z., Bocewicz G., Decision Support Driven Models and Algorithms of Artificial Intelligence. Wydawnictwo Uczelniane Politechniki Warszawskiej, 2011, Warszawa, 237s.
 0. Bocewicz G., Bach-Dąbrowska I., Banaszak Z., Deklaratywne projektowanie systemów komputerowego wspomagania planowania przedsięwzięć. Akademicka Oficyna Wydawnicza Exit, Warszawa 2009, 302s.
