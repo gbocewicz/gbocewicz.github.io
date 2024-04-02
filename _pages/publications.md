@@ -5,6 +5,10 @@ author_profile: true
 ---
 Najważniejsze publikacje
 ========================
+0. Burduk A., Bocewicz G., Łampika Ł., Łapczyńska D., Musiał K., Tabu search and genetic algorithm in rims production process assignment. _Logic Journal of the IGPL_, 2024; jzae031. [doi:10.1093/jigpal/jzae031](https://academic.oup.com/jigpal/advance-article-abstract/doi/10.1093/jigpal/jzae031/7634383)
+0. Gunaratne K., Weerasinghe B., Nielsen I., Bocewicz G., Thibbotuwawa A., Banaszak Z., Enhancing vaccine distribution efficiency in Sri Lanka's cold chain through unmanned aerial systems: a district-based approach. _LogForum_, 20(1), 2024, 97-116. [doi:10.17270/J.LOG.000948](https://www.logforum.net/volume20/issue1/abstract-8.html)
+0. Szwarc E., Bocewicz G., Smutnicki Cz., Banaszak Z., Preventive planning of Product-as-a-Service offers to maintain the availability of required service level. _Annals of Operations Research_, 2024. [doi:10.1007/s10479-024-05820-0](https://link.springer.com/article/10.1007/s10479-024-05820-0)
+0. Szwarc E., Golińska-Dawson P., Bocewicz G., Banaszak Z., Robust Scheduling of Multi-Skilled Workforce Allocation: Job Rotation Approach. _Electronics_, 13(2), 2024. [doi:10.3390/electronics13020392](https://www.mdpi.com/2079-9292/13/2/392)
 0. Nielsen I., Piyatilake A., Thibbotuwawa A., De Silva M.M., Bocewicz G., Banaszak Z. Benefits Realization of Robotic Process Automation (RPA) Initiatives in Supply Chains. _IEEE Acces_, 2023, 11, 37623-37636, [doi:10.1109/ACCESS.2023.3266293](https://doi.org/10.1109/ACCESS.2023.3266293)
 0. Bocewicz G., Szwarc E., Thibbotuwawa A., Banaszak Z. Project Portfolio Planning Taking into Account the Effect of Loss of Competences of Project Team Members. _Applied Sciences_, 2023, 13(12):7165. [doi:10.3390/app13127165](https://doi.org/10.3390/app13127165)
 0. Banaszak Z., Radzki, G., Nielsen I., Frederiksen R., Bocewicz G. Proactive Mis-sion Planning of Unmanned Aerial Vehicle Fleets Used in Offshore Wind Farm Maintenance. _Applied Sciences_,. 2023, 13, 8449, [doi:10.3390/app13148449](https://www.mdpi.com/2076-3417/13/14/8449)
