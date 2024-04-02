@@ -20,7 +20,7 @@ Zatrudnienie
 Pełnione funkcje
 ================
 
-|2023 - obecnie|członek Komitetu Inżynierii Produkcji PAN, [KIP PAN](http://www.konsulting.gda.pl/polspar/](https://kip.pan.pl/pl/)|
+|2023 - obecnie|członek Komitetu Inżynierii Produkcji PAN, [KIP PAN] (http://www.konsulting.gda.pl/polspar/](https://kip.pan.pl/pl/)|
 |--------------------------------------|------------------------------------------------------------|
 |2020 - obecnie|członek Polskiego Stowarzyszenia Pomiarów, Automatyki i Robotyki, [POLSPAR](http://www.konsulting.gda.pl/polspar/)(od 2023 zarząd)|
 |2019 - 2022   |przewodniczący Rady Naukowej Dyscypliny Automatyka, Elektronika i Elektrotechnika, [WEiI PK](https://weii.tu.koszalin.pl/)|
