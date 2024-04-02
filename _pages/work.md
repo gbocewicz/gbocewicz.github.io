@@ -20,7 +20,7 @@ Zatrudnienie
 Pełnione funkcje
 ================
 
-|2023 - obecnie|członek Komitetu Inżynierii Produkcji PAN, [KIP PAN] (http://www.konsulting.gda.pl/polspar/](https://kip.pan.pl/pl/)|
+|2023 - obecnie|członek Komitetu Inżynierii Produkcji PAN, [KIP PAN](https://kip.pan.pl/pl/)                                                  |
 |--------------------------------------|------------------------------------------------------------|
 |2020 - obecnie|członek Polskiego Stowarzyszenia Pomiarów, Automatyki i Robotyki, [POLSPAR](http://www.konsulting.gda.pl/polspar/)(od 2023 zarząd)|
 |2019 - 2022   |przewodniczący Rady Naukowej Dyscypliny Automatyka, Elektronika i Elektrotechnika, [WEiI PK](https://weii.tu.koszalin.pl/)|
@@ -30,7 +30,7 @@ Pełnione funkcje
 |2015 - obecnie|członek komitetu TC 5.1. Manufacturing Plant Control, [IFAC](https://tc.ifac-control.org/5/1)| 
 |2016 - 2022   |przewodniczący Rady Wydziału Elektroniki i Informatyki Politechniki Koszalińskiej, [WEiI](https://weii.tu.koszalin.pl/)| 
 |2016 - obecnie|członek Senatu Politechniki Koszalińskiej, [PK](https://tu.koszalin.pl/)|
-|2013 - 2020|członek rady naukowej czasopisma Production & Manufacturing Research,[PMR](https://www.tandfonline.com/toc/tpmr/current)|
+|2013 - 2020   |członek rady naukowej czasopisma Production & Manufacturing Research,[PMR](https://www.tandfonline.com/toc/tpmr/current)|
 |2012 - obecnie|członek rady naukowej czasopisma Applied Computer Science, [ACS](http://www.acs.pollub.pl/)|
 |2010 - obecnie|członek Stowarzyszenia Elektryków Polskich, [SEP](http://www.sep.koszalin.pl/)|
 
