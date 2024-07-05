@@ -5,6 +5,7 @@ author_profile: true
 ---
 Najważniejsze publikacje
 ========================
+0. Bocewicz G., Frederiksen R.D., Nielsen P. , Banaszak Z., Integrated preventive–proactive–reactive offshore wind farms maintenance planning. _Annals of Operations Research_, 2024. [doi:10.1007/s10479-024-05951-4](https://doi.org/10.1007/s10479-024-05951-4)
 0. Burduk A., Bocewicz G., Łampika Ł., Łapczyńska D., Musiał K., Tabu search and genetic algorithm in rims production process assignment. _Logic Journal of the IGPL_, 2024; jzae031. [doi:10.1093/jigpal/jzae031](https://academic.oup.com/jigpal/advance-article-abstract/doi/10.1093/jigpal/jzae031/7634383)
 0. Gunaratne K., Weerasinghe B., Nielsen I., Bocewicz G., Thibbotuwawa A., Banaszak Z., Enhancing vaccine distribution efficiency in Sri Lanka's cold chain through unmanned aerial systems: a district-based approach. _LogForum_, 20(1), 2024, 97-116. [doi:10.17270/J.LOG.000948](https://www.logforum.net/volume20/issue1/abstract-8.html)
 0. Szwarc E., Bocewicz G., Smutnicki Cz., Banaszak Z., Preventive planning of Product-as-a-Service offers to maintain the availability of required service level. _Annals of Operations Research_, 2024. [doi:10.1007/s10479-024-05820-0](https://link.springer.com/article/10.1007/s10479-024-05820-0)
