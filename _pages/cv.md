@@ -8,6 +8,7 @@ redirect_from:
 {% include base_path %}
 Wykształcenie
 ======
+
 |2024 | __uzyskanie tytułu profesora w dziedznie nauk inżynieryjno-technicznych__|
 |---------------------------|------------------------------------------------------------|
 |     | Postanowienie Prezydenta Rzeczypospolitej Polskiej, z dnia 25 lipca 2024 r., nr 115.7.2024, dyscyplina: informatyka techniczna i telekomunikacja|
