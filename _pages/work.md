@@ -9,7 +9,8 @@ Zatrudnienie
 
 |2022 - obecnie|Kierownik Katedry Podstaw Informatyki i Zarządzania, [WEiI](https://weii.tu.koszalin.pl/) |
 |---------------------------|------------------------------------------------------------|
-|2015 - obecnie|Profesor uczelni, Katedra Podstaw Informatyki i Zarządzania, [WEiI](https://weii.tu.koszalin.pl/) |
+|2024 - obecnie|Profesor, Katedra Podstaw Informatyki i Zarządzania, [WEiI](https://weii.tu.koszalin.pl/) |
+|2015 - 2024   |Profesor uczelni, Katedra Podstaw Informatyki i Zarządzania, [WEiI](https://weii.tu.koszalin.pl/) |
 |2016 - 2022   |Dziekan Wydziału Elektroniki i Informatyki [(WEiI)](https://weii.tu.koszalin.pl/) Politechniki Koszalińskiej [(PK)](https://tu.koszalin.pl/)|
 |2015(X-XII)   |Profesor wizytujący, Wyższa Szkoła Bankowa w Gdańsku, [WSB](https://www.wsb.pl/gdansk/)| 
 |2012 - 2013   |Wykładowca, Uniwersytet Dziecięcy, Prywatne Centrum Edukacyjne, Białogard|
@@ -29,7 +30,7 @@ Pełnione funkcje
 |2018 - obecnie|ekspert Narodowego Centrum Badań i Rozwoju, [NCBR](https://www.ncbr.gov.pl/)| 
 |2015 - obecnie|członek komitetu TC 5.1. Manufacturing Plant Control, [IFAC](https://tc.ifac-control.org/5/1)| 
 |2016 - 2022   |przewodniczący Rady Wydziału Elektroniki i Informatyki Politechniki Koszalińskiej, [WEiI](https://weii.tu.koszalin.pl/)| 
-|2016 - obecnie|członek Senatu Politechniki Koszalińskiej, [PK](https://tu.koszalin.pl/)|
+|2016 - 2024   |członek Senatu Politechniki Koszalińskiej, [PK](https://tu.koszalin.pl/)|
 |2013 - 2020   |członek rady naukowej czasopisma Production & Manufacturing Research,[PMR](https://www.tandfonline.com/toc/tpmr/current)|
 |2012 - obecnie|członek rady naukowej czasopisma Applied Computer Science, [ACS](http://www.acs.pollub.pl/)|
 |2010 - obecnie|członek Stowarzyszenia Elektryków Polskich, [SEP](http://www.sep.koszalin.pl/)|
