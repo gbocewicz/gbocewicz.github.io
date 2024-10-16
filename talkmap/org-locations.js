@@ -65,7 +65,7 @@ var addressPoints = [
     15.755
   ],
   [
-    "Wiedeń, KSEM 2009",
+    "Wiedeń, KSEM 2009; INCOM 2024",
     48.2084,
     16.3720
   ],
