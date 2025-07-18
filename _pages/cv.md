@@ -13,7 +13,7 @@ Wykształcenie
 |---------------------------|------------------------------------------------------------|
 |     | Postanowienie Prezydenta Rzeczypospolitej Polskiej, z dnia 25 lipca 2024 r., nr 115.7.2024, dyscyplina: informatyka techniczna i telekomunikacja|
 
-|2021 | __uzyksanie certyfikatu PRINCE2® 6th Edition Foundation in Project Management__|
+|2021 | __uzyskanie certyfikatu PRINCE2® 6th Edition Foundation in Project Management__|
 |---------------------------|------------------------------------------------------------|
 |     | Altkom Akademia - akredytowane szkolenie z egzaminem, PRINCE2® 6th edition Foundation|
 
