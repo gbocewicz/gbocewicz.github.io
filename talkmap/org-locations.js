@@ -163,11 +163,11 @@ var addressPoints = [
     "Yokohama, WC-IFAC 2023",
       35.443707, 
       139.638031
-  ]
+  ],
   [
     "Trondheim, MIM 2025",
      63.383333,
      10.35
-  ],
+  ]
   
 ];
