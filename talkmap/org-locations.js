@@ -15,7 +15,7 @@ var addressPoints = [
     30.3141300
   ],
   [
-    "Zakopane, KKAPD 2012, 2022",
+    "Zakopane, KKAPD 2012, 2022, 2025",
     49.2989900,
     19.9488500
   ],
@@ -30,7 +30,7 @@ var addressPoints = [
     15.522
   ],
   [
-    "Warszawa, Automation 2008-2009,2017-2019,2022,2023; NMND 2012",
+    "Warszawa, Automation 2008-2009,2017-2019,2022-2025; NMND 2012",
     52.229,
     21.0117
   ],
@@ -164,5 +164,10 @@ var addressPoints = [
       35.443707, 
       139.638031
   ]
+  [
+    "Trondheim, MIM 2025",
+     63.383333,
+     10.35
+  ],
   
 ];
