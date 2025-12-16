@@ -168,6 +168,11 @@ var addressPoints = [
     "Trondheim, MIM 2025",
      63.383333,
      10.35
+  ],
+  [
+    "Koszalin, IMS 2025", 
+    54.1902, 
+    16.1819
   ]
   
 ];
