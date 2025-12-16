@@ -5,7 +5,10 @@ author_profile: true
 ---
 Najważniejsze publikacje
 ========================
-0. Szwarc E., Bocewicz G., Radzki G., Banaszak Z. Balancing Supply and Demand in PaaS Markets: A Framework for Profitability, Cost Optimization, and Sustainability. _Sustainability_. 2025, 17, 2823. [doi:10.3390/su17072823](https://doi.org/10.3390/su17072823) 
+0. Radzki, G., Bocewicz G., Nielsen I., Rudy J.,  Banaszak Z. Multimodal processes driven distribution of customers’ ordered services. _Journal of Industrial and Production Engineering_, 2025, 1–31. [doi:10.1080/21681015.2025.2583199](https://doi.org/10.1080/21681015.2025.2583199) 
+0. Bocewicz G., Radzki G., Piechowski M., Jasiulewicz-Kaczmarek M., Banaszak Z. A Declarative Framework for Production Line Balancing with Disruption-Resilient and Sustainability-Focused Improvements. _Sustainability_, 2025, 17, 6747. [doi:10.3390/su17156747](https://doi.org/10.3390/su17156747)  
+0. Radzki G., Bocewicz G., Rudy J., Idzikowski R.,Banaszak Z. Assessing Feasibility in Service Teams Transport Scheduling with Dedicated and Flexible Dispatch Approaches. _Applied Sciences_, 2025, 15(23), 12727. [doi:10.3390/app152312727](https://doi.org/10.3390/app152312727)  
+0. Szwarc E., Bocewicz G., Radzki G., Banaszak Z. Balancing Supply and Demand in PaaS Markets: A Framework for Profitability, Cost Optimization, and Sustainability. _Sustainability_, 2025, 17, 2823. [doi:10.3390/su17072823](https://doi.org/10.3390/su17072823) 
 0. Frederiksen R.D., Bocewicz G., Nielsen P., Radzki G., Banaszak Z. A Reference Modelling Approach for Cost Optimal Maintenance for Offshore Wind Farms. _Sustainability_. 2024; 16(19), 8352. [doi:10.3390/su16198352](https://doi.org/10.3390/su16198352) 
 0. Rudy J., Idzikowski R., Smutnicki Cz., Banaszak Z.,  Bocewicz G. New ideas in Lagrangian relaxation for a scheduling problem with the weighted tardiness criterion. _International Journal of Applied Mathematics & Computer Science_, 2024, 34, 2, 235-251. [doi:10.61822/amcs-2024-0017](https://sciendo.com/article/10.61822/amcs-2024-0017) 
 0. Frederiksen R.D., Bocewicz G., Radzki G., Banaszak Z., Nielsen P. Cost-Effectiveness of Predictive Maintenance for Offshore Wind Farms: A Case Study. _Energies_, 2024, 17, 3147. [doi:10.3390/en17133147](https://doi.org/10.3390/en17133147)
