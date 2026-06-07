@@ -5,7 +5,7 @@ author_profile: true
 ---
 Najważniejsze publikacje
 ========================
-0. Radzki, G., Bocewicz G., Nielsen I., Rudy J.,  Banaszak Z. Multimodal processes driven distribution of customers’ ordered services. _Journal of Industrial and Production Engineering_, 2025, 1–31. [doi:10.1080/21681015.2025.2583199](https://doi.org/10.1080/21681015.2025.2583199) 
+0. Radzki G., Bocewicz G., Nielsen I., Rudy J.,  Banaszak Z. Multimodal processes driven distribution of customers’ ordered services. _Journal of Industrial and Production Engineering_, 2025, 1–31. [doi:10.1080/21681015.2025.2583199](https://doi.org/10.1080/21681015.2025.2583199) 
 0. Bocewicz G., Radzki G., Piechowski M., Jasiulewicz-Kaczmarek M., Banaszak Z. A Declarative Framework for Production Line Balancing with Disruption-Resilient and Sustainability-Focused Improvements. _Sustainability_, 2025, 17, 6747. [doi:10.3390/su17156747](https://doi.org/10.3390/su17156747)  
 0. Radzki G., Bocewicz G., Rudy J., Idzikowski R.,Banaszak Z. Assessing Feasibility in Service Teams Transport Scheduling with Dedicated and Flexible Dispatch Approaches. _Applied Sciences_, 2025, 15(23), 12727. [doi:10.3390/app152312727](https://doi.org/10.3390/app152312727)  
 0. Szwarc E., Bocewicz G., Radzki G., Banaszak Z. Balancing Supply and Demand in PaaS Markets: A Framework for Profitability, Cost Optimization, and Sustainability. _Sustainability_, 2025, 17, 2823. [doi:10.3390/su17072823](https://doi.org/10.3390/su17072823) 
@@ -78,6 +78,7 @@ Monografie/Podręczniki
 
 Redakcje
 ========
+0. [Conference proceedings of the 15th IFAC Workshop on Intelligent Manufacturing Systems (IMS 2025)](https://www.sciencedirect.com/journal/ifac-papersonline/vol/59/issue/24), Eds. Cohen Y., Macchi M., Bocewicz G., IFAC-PapersOnLine, Elsevier, 2025, 496s. 
 0. [Distributed Computing and Artificial Intelligence, Special Sessions, 19th International Conference](https://link.springer.com/book/10.1007/978-3-031-23210-7), Eds. Machado J.-M., Chamoso P., Hernández G., Bocewicz G., Loukanova R., Jove E., Ricca M., Lecture Notes in Networks and Systems, Springer, 2022, 185s.
 0. [Performance Evaluation Models for Distributed Service Networks](https://www.springer.com/gp/book/9783030670627), Eds. Bocewicz G., Pempera J., Toporkov V.,  Studies in Systems, Decision and Control, Springer, 2021, 185s.
 0. [Modelling and Performance Analysis of Cyclic Systems](https://www.springer.com/gp/book/9783030276515), Eds. Bozejko W., Bocewicz G., Studies in Systems, Decision and Control, Springer, 2020, 190s.
